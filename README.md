@@ -123,6 +123,7 @@ isn't it?
 ```
 For example, `MessageBox.Show("The Easiest Markdown!")`.
 ```
+
 For example, `MessageBox.Show("The Easiest Markdown!")`.
 
 <br />
@@ -134,6 +135,7 @@ For example,
   MessageBox.Show("The Easiest Markdown!"). 
 Enter space four times or press tab.
 ```
+
 For example, 
   MessageBox.Show("The Easiest Markdown!"). 
 Enter space four times or press tab.
@@ -149,7 +151,7 @@ public ICommand Command
 }
 ```
 ```
-
+  
 ```
 public ICommand Command
 {
