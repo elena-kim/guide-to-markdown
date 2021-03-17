@@ -86,7 +86,47 @@ isn't it?
 
 <br />
 
-# 3. Emphasis
+# 3. List
+## 3.1 Unordered : `-`, `*`, `+`
+```
+- Unordered
+  - hyphen
+    - hyphen
+  * asterisks
+    + plus
+    + plus
+```
+
+- Unordered
+  - hyphen
+    - hyphen
+  * asterisks
+    + plus
+    + plus
+<br />
+
+## 3.2 Ordered : Number
+```
+1. First
+2. Second
+3. Third
+  
+1. First
+4. Second
+5. First
+```
+
+1. First
+2. Second
+3. Third
+  
+1. First
+4. Second
+5. First
+
+<br />
+
+# 4. Emphasis
 ```
 *Italic* or _Italic_  
 **Bold** or __Bold__
@@ -104,7 +144,7 @@ isn't it?
 
 <br />
 
-# 4. Block Quote
+# 5. Block Quote
 
 ```
 > Write a block quote.
@@ -118,8 +158,8 @@ isn't it?
  
 <br />
 
-# 5. Code
-## 5.1 Inline Code
+# 6. Code
+## 6.1 Inline Code
 ```
 For example, `MessageBox.Show("The Easiest Markdown!")`.
 ```
@@ -128,8 +168,8 @@ For example, `MessageBox.Show("The Easiest Markdown!")`.
 
 <br />
 
-## 5.2 Code Block 
-### 5.2.1 Indent
+## 6.2 Code Block 
+### 6.2.1 Indent
 ```
 For example, 
 
@@ -146,7 +186,7 @@ For example,
 Enter space four times or press tab.
 *****
 
-### 5.2.2 Multiline
+### 6.2.2 Multiline
 
 <pre>
 <code>
@@ -168,7 +208,7 @@ public ICommand Command
 }
 ```
 
-### 5.2.3 Code Highlight
+### 6.2.3 Code Highlight
 
 <pre>
 <code>
@@ -189,3 +229,44 @@ public ICommand Command
     set { this.SetValue(CommandProperty, value); }
 }
 ```
+
+<br />
+
+# 7. Link
+## 7.1 Inline Link
+```
+[DevNcore](https://devncore.org)
+```
+[DevNcore](https://devncore.org)
+<br />
+
+## 7.2 Url & Email
+```
+- DevNcore: https://devncore.org
+- Stackoverflow : <https://stackoverflow.com/>
+- DevNcoreOfficial : <opensource@devncore.org>
+```
+- DevNcore: https://devncore.org
+- Stackoverflow : <https://stackoverflow.com/>
+- DevNcoreOfficial : <opensource@devncore.org>
+출처는 [위키백과][wiki]입니다.
+
+[wiki]: http://en.wikipedia.org/wiki/Markdown#Syntax_examples "위키백과 Markdown 항목"
+<br />
+
+# 8. Images
+## 8.1 Connect Link
+
+## 8.2 Resize
+<br />
+
+# 9. Table
+<br />
+
+# 10. CheckBox
+<br />
+
+# 99. ETC
+## 99.1 Emoji
+
+## 99.2 Badge
