@@ -1,5 +1,10 @@
 # theeasiestmarkdown
 
+__What is the `Markdown`?__  
+__Why we should study `Markdown`?__  
+__How to use `Markdown`?__  
+__Where can we use `Markdown`?__  
+
 # 1. Header
 ```
 # Header 1
@@ -253,13 +258,13 @@ public ICommand Command
 
 ## 7.3 Reference
 ```
-`The Easiest Series`
+`The Easiest Series`  
 The Easiest Git [Github][git]
 
 [git]: https://github.com/devncore/theeasiestgit "Let's get started!"
 ```
 
-`The Easiest Series`
+`The Easiest Series`  
 The Easiest Git [Github][git]
 
 [git]: https://github.com/devncore/theeasiestgit "Let's get started!"
