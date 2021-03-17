@@ -35,7 +35,7 @@ Header 2
 
 <br />
 
-## 2. New Line
+# 2. New Line
 
 - `<br/>`
 - `space keypress twice`
@@ -60,7 +60,7 @@ isn't it?
 
 <br />
 
-## 3. Emphasis
+# 3. Emphasis
 ```
 *Italic* or _Italic_  
 **Bold** or __Bold__
@@ -73,12 +73,12 @@ isn't it?
 **Bold** or __Bold__  
 **_Italic_ and Bold**  
 ~~Cancle~~  
-<u>Underline</u>  
+<ins>Underline</ins>  
 
 
 <br />
 
-## 4. Block Quote
+# 4. Block Quote
 
 ```
 > Write a block quote.
