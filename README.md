@@ -129,20 +129,22 @@ For example, `MessageBox.Show("The Easiest Markdown!")`.
 <br />
 
 ## 5.2 Code Block 
-
+### 5.2.1 Indent
 ```
 For example, 
-  MessageBox.Show("The Easiest Markdown!"). 
+    MessageBox.Show("The Easiest Markdown!"). 
 Enter space four times or press tab.
 ```
 
 For example, 
-  MessageBox.Show("The Easiest Markdown!"). 
+    MessageBox.Show("The Easiest Markdown!"). 
 Enter space four times or press tab.
 
-<br />
 
-```
+### 5.2.2 Multiline
+
+<pre>
+<code>
 ```
 public ICommand Command
 {
@@ -150,7 +152,8 @@ public ICommand Command
     set { this.SetValue(CommandProperty, value); }
 }
 ```
-```
+</code>
+</pre>
   
 ```
 public ICommand Command
@@ -160,9 +163,10 @@ public ICommand Command
 }
 ```
 
-<br />
+### 5.2.3 Code Highlight
 
-```
+<pre>
+<code>
 ``` C#
 public ICommand Command
 {
@@ -170,9 +174,10 @@ public ICommand Command
     set { this.SetValue(CommandProperty, value); }
 }
 ```
-```
+</code>
+</pre>
 
-``` C#
+```C#
 public ICommand Command
 {
     get { return (ICommand)this.GetValue(CommandProperty); }
