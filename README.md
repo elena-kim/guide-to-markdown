@@ -249,9 +249,18 @@ public ICommand Command
 - DevNcore: https://devncore.org
 - Stackoverflow : <https://stackoverflow.com/>
 - DevNcoreOfficial : <opensource@devncore.org>
-출처는 [위키백과][wiki]입니다.
+<br />
 
-[wiki]: http://en.wikipedia.org/wiki/Markdown#Syntax_examples "위키백과 Markdown 항목"
+## 7.3 Reference
+```
+`The Easiest Series`
+The Easiest Git [Github][git]
+[git]: https://github.com/devncore/theeasiestgit "Let's get started!"
+```
+
+`The Easiest Series`
+The Easiest Git [Github][git]
+[git]: https://github.com/devncore/theeasiestgit "Let's get started!"
 <br />
 
 # 8. Images
