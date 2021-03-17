@@ -115,21 +115,17 @@ isn't it?
 1. First
 2. Second
 3. Third
-  
-  
-1. First
-4. Second
-5. First
+  1. First
+  4. Second
+  5. First
 ```
 
 1. First
 2. Second
-3. Third  
-
-
-1. First
-4. Second
-5. First
+3. Third
+  1. First
+  4. Second
+  5. First
 
 <br />
 
