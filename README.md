@@ -17,7 +17,7 @@
 ##### Header 5
 ###### Header 6
 
-Header 1 and Header 2 are same as below.  
+> Header 1 and Header 2 are same as below.  
 
 ```
 Header 1
@@ -31,7 +31,7 @@ Header 1
 Header 2
 ---------
 
-<br/>
+
 ## 2. New Line
 
 - `<br/>`
@@ -44,7 +44,8 @@ isn't it?
   
 Markdown is useful, <br /> isn't it?
 
-Markdown is useful, \ isn't it?
+Markdown is useful, \ 
+isn't it?
 
 Markdown is useful,(␠␠)  
 isn't it?
@@ -55,12 +56,13 @@ isn't it?
   
 Markdown is useful, <br /> isn't it?
   
-Markdown is useful, \ isn't it?
+Markdown is useful, \ 
+isn't it?
   
 Markdown is useful,  
 isn't it?
 
-<br/>
+
 ## 3. Emphasis
 ```
 *Italic* or _Italic_
@@ -76,7 +78,7 @@ isn't it?
 ~~Cancle~~
 <u>Underline</u>
 
-<br/>
+
 ## 4. Block Quote
 
 ```
