@@ -132,15 +132,19 @@ For example, `MessageBox.Show("The Easiest Markdown!")`.
 ### 5.2.1 Indent
 ```
 For example, 
+
     MessageBox.Show("The Easiest Markdown!"). 
+    
 Enter space four times or press tab.
 ```
 
-***
+*****
 For example, 
+
     MessageBox.Show("The Easiest Markdown!"). 
+    
 Enter space four times or press tab.
-***
+*****
 
 ### 5.2.2 Multiline
 
