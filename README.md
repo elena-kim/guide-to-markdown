@@ -255,11 +255,13 @@ public ICommand Command
 ```
 `The Easiest Series`
 The Easiest Git [Github][git]
+
 [git]: https://github.com/devncore/theeasiestgit "Let's get started!"
 ```
 
 `The Easiest Series`
 The Easiest Git [Github][git]
+
 [git]: https://github.com/devncore/theeasiestgit "Let's get started!"
 <br />
 
