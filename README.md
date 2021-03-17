@@ -1,6 +1,6 @@
 # theeasiestmarkdown
 
-## 1. Header
+# 1. Header
 ```
 # Header 1
 ## Header 2
@@ -31,11 +31,10 @@ Header 1
 Header 2
 ---------
 
-
+<br/>
 ## 2. New Line
 
 - `<br/>`
-- `\`
 - `space keypress twice`
 
 ```
@@ -43,9 +42,6 @@ Markdown is useful,
 isn't it?
   
 Markdown is useful, <br /> isn't it?
-
-Markdown is useful, \ 
-isn't it?
 
 Markdown is useful,(␠␠)  
 isn't it?
@@ -56,29 +52,27 @@ isn't it?
   
 Markdown is useful, <br /> isn't it?
   
-Markdown is useful, \ 
-isn't it?
-  
 Markdown is useful,  
 isn't it?
 
-
+<br/>
 ## 3. Emphasis
 ```
-*Italic* or _Italic_
+*Italic* or _Italic_  
 **Bold** or __Bold__
 **_Italic_ and Bold**
 ~~Cancle~~
 <u>Underline</u>
 ```
 
-*Italic* or _Italic_
-**Bold** or __Bold__
-**_Italic_ and Bold**
-~~Cancle~~
-<u>Underline</u>
+*Italic* or _Italic_  
+**Bold** or __Bold__  
+**_Italic_ and Bold**  
+~~Cancle~~  
+<u>Underline</u>  
 
 
+<br/>
 ## 4. Block Quote
 
 ```
