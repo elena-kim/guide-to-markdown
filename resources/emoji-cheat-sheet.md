@@ -5,8 +5,20 @@
 |:grinning: `:grinning:` | :smiley: `:smiley:` | :smile: `:smile:` |
 |:--- |:---|:---|
 | :grin:  `:grin:` |:laughing:  `:laughing:`  `:satisfied:` | :sweat_smile: `:sweat_smile:` | 
-|:rofl: `:rofl:` | :joy: `:joy:` | :slightly_smiling_face: `:slightly_smiling_face:` |
-|:upside_down_face: `:upside_down_face:` | :wink:  `:wink:` | :blush: `:blush:` | 
-|:innocent: `:innocent:` | :smiling_face_with_three_hearts:  `:smiling_face_with_three_hearts:` | :heart_eyes: `:heart_eyes:` |
+| :rofl: `:rofl:` | :joy: `:joy:` | :slightly_smiling_face: `:slightly_smiling_face:` |
+| :upside_down_face: `:upside_down_face:` | :wink:  `:wink:` | :blush: `:blush:` | 
+| :innocent: `:innocent:` | :smiling_face_with_three_hearts:  `:smiling_face_with_three_hearts:` | :heart_eyes: `:heart_eyes:` |
 | :star_struck: `:star_struck:` | :kissing_heart: `:kissing_heart:` | :kissing:  `:kissing:` 
 | :relaxed:  `:relaxed:` |  :kissing_closed_eyes: `:kissing_closed_eyes:` | :kissing_smiling_eyes: `:kissing_smiling_eyes:` | 
+| :yum:  `:yum:` | :stuck_out_tongue:  `:stuck_out_tongue:` |  :stuck_out_tongue_winking_eye:  `:stuck_out_tongue_winking_eye:` 
+| :zany_face:  `:zany_face:` |  :stuck_out_tongue_closed_eyes:  `:stuck_out_tongue_closed_eyes:` | :money_mouth_face:  `:money_mouth_face:`|
+| :hugs:  `:hugs:` | :hand_over_mouth:  `:hand_over_mouth:` | :shushing_face: `:shushing_face:` |
+| :thinking:  `:thinking:` | :zipper_mouth_face: `:zipper_mouth_face:` | :raised_eyebrow: `:raised_eyebrow:` |
+| :neutral_face: `:neutral_face:` | :expressionless: `:expressionless:` | :no_mouth:  `:no_mouth:` | 
+| :smirk:  `:smirk:` |  :unamused:  `:unamused:` | :roll_eyes:  `:roll_eyes:` |
+| :grimacing:  `:grimacing:` | :lying_face:  `:lying_face:` | :relieved:  `:relieved:` | 
+| :pensive:  `:pensive:`  | :sleepy:  `:sleepy:` | :drooling_face:  `:drooling_face:` |
+| :sleeping:  `:sleeping:` | :mask: `:mask:` | :face_with_thermometer: `:face_with_thermometer:` |
+| :face_with_head_bandage:  `:face_with_head_bandage:` | :nauseated_face:  `:nauseated_face:` |  :vomiting_face:  `:vomiting_face:` |
+| :sneezing_face:  `:sneezing_face:` | :hot_face:  `:hot_face:` | :cold_face:  `:cold_face:` | 
+| :woozy_face:  `:woozy_face:` | :dizzy_face:  `:dizzy_face:` | :exploding_head: `:exploding_head:` |
