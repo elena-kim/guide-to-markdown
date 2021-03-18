@@ -77,3 +77,19 @@
 | :dolphin:  `:dolphin:` `:flipper:` | :fish:  `:fish:` |  :tropical_fish:  `:tropical_fish:` | 
 | :blowfish:  `:blowfish:` |  :shark: `:shark:` | :octopus:  `:octopus:` | 
 | :shell:  `:shell:` |  :sauropod:  `:sauropod:` | :t-rex:  `:t-rex:` |
+| :snail:  `:snail:` | :butterfly:  `:butterfly:` |  :bug: `:bug:` |
+| :ant:  `:ant:` | :bee:  `:bee:` `:honeybee:` | :beetle:  `:beetle:` |
+| :cricket:  `:cricket:` | :spider: `:spider:` | :spider_web:  `:spider_web:` | 
+| :scorpion:  `:scorpion:` | :mosquito:  `:mosquito:` | :microbe:  `:microbe:` |
+
+<br />
+
+## 3. Plants
+| :bouquet:  `:bouquet:` | :cherry_blossom:  `:cherry_blossom:` |  :white_flower:  `:white_flower:` |
+| :rosette:  `:rosette:` | :rose:  `:rose:` | :wilted_flower:  `:wilted_flower:` |
+| :hibiscus: `:hibiscus:` | :sunflower: `:sunflower:` |:blossom:  `:blossom:` | 
+| :tulip:  `:tulip:` | :seedling:  `:seedling:` | :evergreen_tree:  `:evergreen_tree:` |
+| :deciduous_tree:  `:deciduous_tree:` | :palm_tree: `:palm_tree:` |  :cactus: `:cactus:` | 
+| :ear_of_rice:  `:ear_of_rice:` |  :herb:  `:herb:` | :shamrock:  `:shamrock:` | 
+| :four_leaf_clover:  `:four_leaf_clover:` | :maple_leaf:  `:maple_leaf:` | :fallen_leaf: `:fallen_leaf:` |
+| :leaves:  `:leaves:` |||
