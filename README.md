@@ -286,12 +286,37 @@ Stackoverflow [Click Here][home]
 <br />
 
 ## 9. Table
+```
+|Title                  |Actor                                        |Opening Date|
+|:----------------------|:--------------------------------------------|:----------:|
+|Black Widow            |Scarlett Johansson, Florence Pugh            |2021.04.29  |
+|Eternals               |Christopher Catesby Harington, Angelina Jolie|2021.02.12  |
+|Spider-Man: No Way Home|Tom Holland, Jamie Foxx, Tobey Maguire       |2021.12.17  |
+```
+
+|Title                  |Actor                                        |Opening Date|
+|:----------------------|:--------------------------------------------|:----------:|
+|Black Widow            |Scarlett Johansson, Florence Pugh            |2021.04.29  |
+|Eternals               |Christopher Catesby Harington, Angelina Jolie|2021.02.12  |
+|Spider-Man: No Way Home|Tom Holland, Jamie Foxx, Tobey Maguire       |2021.12.17  |
 <br />
 
 ## 10. CheckBox
+```
+- [ ] To do
+- [x] Done
+```
+
+- [ ] To do
+- [x] Done
 <br />
 
 ## 99. ETC
 ### 99.1 Emoji
+```
+:+1: :metal: :octocat:
+```
+:+1: :metal: :octocat:
 
+<br />
 ### 99.2 Badge
