@@ -85,7 +85,9 @@
 <br />
 
 ## 3. Plants
+
 | :bouquet:  `:bouquet:` | :cherry_blossom:  `:cherry_blossom:` |  :white_flower:  `:white_flower:` |
+|:--- |:---|:---|
 | :rosette:  `:rosette:` | :rose:  `:rose:` | :wilted_flower:  `:wilted_flower:` |
 | :hibiscus: `:hibiscus:` | :sunflower: `:sunflower:` |:blossom:  `:blossom:` | 
 | :tulip:  `:tulip:` | :seedling:  `:seedling:` | :evergreen_tree:  `:evergreen_tree:` |
