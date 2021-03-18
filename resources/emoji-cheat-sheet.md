@@ -40,7 +40,8 @@
 
 <br />
 
-## 2. Animals
+## Animals
+
 |:smiley_cat:  `:smiley_cat:` | :smile_cat:  `:smile_cat:` |  :joy_cat:  `:joy_cat:` |
 |:--- |:---|:---|
 |:heart_eyes_cat:  `:heart_eyes_cat:` |  :smirk_cat:  `:smirk_cat:` | :kissing_cat:  `:kissing_cat:` |
@@ -84,7 +85,7 @@
 
 <br />
 
-## 3. Plants
+## Plants
 
 | :bouquet:  `:bouquet:` | :cherry_blossom:  `:cherry_blossom:` |  :white_flower:  `:white_flower:` |
 |:--- |:---|:---|
@@ -98,7 +99,8 @@
 
 <br />
 
-## 4. Emotions
+## Emotions
+
 | :kiss:  `:kiss:` | :love_letter:  `:love_letter:` |  :cupid:  `:cupid:` | 
 |:--- |:---|:---|
 | :gift_heart:  `:gift_heart:` |  :sparkling_heart:  `:sparkling_heart:` | :heartpulse:  `:heartpulse:` |
@@ -112,3 +114,24 @@
 | :hole:  `:hole:` | :bomb:  `:bomb:` | :speech_balloon:  `:speech_balloon:` | 
 | :eye_speech_bubble:  `:eye_speech_bubble:` | :left_speech_bubble:  `:left_speech_bubble:` | :right_anger_bubble:  `:right_anger_bubble:` |
 | :thought_balloon:  `:thought_balloon:` |  :zzz:  `:zzz:` | |
+
+<br />
+
+## Body
+
+| :wave:  `:wave:` | :raised_back_of_hand:  `:raised_back_of_hand:` |  :raised_hand_with_fingers_splayed: `:raised_hand_with_fingers_splayed:` |
+| :hand:  `:hand:` `:raised_hand:` | :vulcan_salute:  `:vulcan_salute:` | :ok_hand:  `:ok_hand:` |
+| :pinching_hand:  `:pinching_hand:` |  :v:  `:v:` | :crossed_fingers:  `:crossed_fingers:` | 
+|  :love_you_gesture: `:love_you_gesture:` | :metal:  `:metal:` |  :call_me_hand:  `:call_me_hand:` |
+| :point_left:  `:point_left:` | :point_right: `:point_right:` | :point_up_2:  `:point_up_2:` |
+| :fu:  `:fu:`  `:middle_finger:` | :+1:  `:+1:`  `:thumbsup:` | :-1:  `:-1:` `:thumbsdown:` | 
+|:fist:  `:fist:` `:fist_raised:` | :facepunch:  `:facepunch:`  `:fist_oncoming:`  `:punch:` | :fist_left:  `:fist_left:` |
+| :fist_right:  `:fist_right:` | :clap:  `:clap:` | :raised_hands:  `:raised_hands:` | 
+| :open_hands:  `:open_hands:` | :palms_up_together:  `:palms_up_together:` |  :handshake:  `:handshake:` | 
+| :pray:  `:pray:` | :writing_hand:  `:writing_hand:` | :nail_care:  `:nail_care:` | 
+| :selfie:  `:selfie:` |:muscle:  `:muscle:` | :mechanical_arm:  `:mechanical_arm:` |
+| :mechanical_leg:  `:mechanical_leg:` | :leg:  `:leg:` |  :foot:  `:foot:` |
+| :ear:  `:ear:` | :ear_with_hearing_aid:  `:ear_with_hearing_aid:` | :nose: `:nose:` | 
+| :brain: `:brain:` | :tooth:  `:tooth:` | :bone: `:bone:` |
+| :eyes:  `:eyes:` |  :eye:  `:eye:` | :tongue:  `:tongue:` | 
+| :lips:  `:lips:` | :point_down:  `:point_down:` | :point_up:  `:point_up:` |
