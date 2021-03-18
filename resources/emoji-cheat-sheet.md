@@ -22,3 +22,15 @@
 | :face_with_head_bandage:  `:face_with_head_bandage:` | :nauseated_face:  `:nauseated_face:` |  :vomiting_face:  `:vomiting_face:` |
 | :sneezing_face:  `:sneezing_face:` | :hot_face:  `:hot_face:` | :cold_face:  `:cold_face:` | 
 | :woozy_face:  `:woozy_face:` | :dizzy_face:  `:dizzy_face:` | :exploding_head: `:exploding_head:` |
+| :cowboy_hat_face: `:cowboy_hat_face:` | :partying_face: `:partying_face:` |:sunglasses:  `:sunglasses:` |
+| :nerd_face: `:nerd_face:` | :monocle_face: `:monocle_face:` | :confused: | `:confused:` | :worried: | `:worried:` | 
+| :slightly_frowning_face: | `:slightly_frowning_face:` | :frowning_face: | `:frowning_face:` | 
+| :open_mouth: `:open_mouth:` | :hushed:  `:hushed:` |  :astonished:  `:astonished:` |
+| :flushed:  `:flushed:` |  :pleading_face: `:pleading_face:` | :frowning:  `:frowning:` | 
+| :anguished:  `:anguished:` | :fearful:  `:fearful:` | :cold_sweat:  `:cold_sweat:` |
+| :disappointed_relieved:  `:disappointed_relieved:` | :cry:  `:cry:` | :sob:  `:sob:` | 
+| :scream:  `:scream:` | :confounded:  `:confounded:` |  :persevere:  `:persevere:` | 
+| :disappointed:  `:disappointed:` | :sweat:  `:sweat:` | :weary:  `:weary:` | 
+| :tired_face:  `:tired_face:` | :yawning_face: `:yawning_face:` | :triumph:  `:triumph:` |
+| :pout:  `:pout:` `:rage:` | :angry: `:angry:` | :cursing_face:  `:cursing_face:` |  :smiling_imp:  `:smiling_imp:` 
+| :imp:  `:imp:` | :skull:  `:skull:` | :skull_and_crossbones: `:skull_and_crossbones:` |
