@@ -52,6 +52,7 @@ Quick Link
 | :japanese_goblin:  `:japanese_goblin:` | :ghost:  `:ghost:` | :alien:  `:alien:` |
 | :space_invader:  `:space_invader:` | :robot:  `:robot:` | |
 
+[top](#quick-link)
 <br />
 
 ## Animals
@@ -97,6 +98,7 @@ Quick Link
 | :cricket:  `:cricket:` | :spider: `:spider:` | :spider_web:  `:spider_web:` | 
 | :scorpion:  `:scorpion:` | :mosquito:  `:mosquito:` | :microbe:  `:microbe:` |
 
+[top](#quick-link)
 <br />
 
 ## Plants
@@ -111,6 +113,7 @@ Quick Link
 | :four_leaf_clover:  `:four_leaf_clover:` | :maple_leaf:  `:maple_leaf:` | :fallen_leaf: `:fallen_leaf:` |
 | :leaves:  `:leaves:` |||
 
+[top](#quick-link)
 <br />
 
 ## Emotions
@@ -129,6 +132,7 @@ Quick Link
 | :eye_speech_bubble:  `:eye_speech_bubble:` | :left_speech_bubble:  `:left_speech_bubble:` | :right_anger_bubble:  `:right_anger_bubble:` |
 | :thought_balloon:  `:thought_balloon:` |  :zzz:  `:zzz:` | |
 
+[top](#quick-link)
 <br />
 
 ## Body
@@ -151,6 +155,7 @@ Quick Link
 | :eyes:  `:eyes:` |  :eye:  `:eye:` | :tongue:  `:tongue:` | 
 | :lips:  `:lips:` | :point_down:  `:point_down:` | :point_up:  `:point_up:` |
 
+[top](#quick-link)
 <br />
 
 ## Person
@@ -177,6 +182,7 @@ Quick Link
 |  :man_shrugging:  `:man_shrugging:` | :woman_shrugging:  `:woman_shrugging:` | :speaking_head:  `:speaking_head:` |
 | :bust_in_silhouette:  `:bust_in_silhouette:` || :busts_in_silhouette:  `:busts_in_silhouette:` | :footprints:  `:footprints:` |
 
+[top](#quick-link)
 <br />
 
 ## Job
@@ -207,6 +213,7 @@ Quick Link
 | :woman_with_headscarf:  `:woman_with_headscarf:` | :man_in_tuxedo:  `:man_in_tuxedo:` |  :bride_with_veil: `:bride_with_veil:` | 
 | :pregnant_woman:  `:pregnant_woman:` |  :breast_feeding:  `:breast_feeding:` ||
 
+[top](#quick-link)
 <br />
 
 ## Activity
@@ -242,6 +249,7 @@ Quick Link
 | :woman_juggling:  `:woman_juggling:` |:lotus_position:  `:lotus_position:` | :lotus_position_man:  `:lotus_position_man:` |
 | :lotus_position_woman:  `:lotus_position_woman:` | :bath:  `:bath:` | :sleeping_bed:  `:sleeping_bed:` |
 
+[top](#quick-link)
 <br />
 
 ## Family
@@ -260,3 +268,6 @@ Quick Link
 | :family_man_girl:  `:family_man_girl:` | :family_man_girl_boy:  `:family_man_girl_boy:` |  :family_man_girl_girl: `:family_man_girl_girl:` |
 | :family_woman_boy:  `:family_woman_boy:` |  :family_woman_boy_boy: `:family_woman_boy_boy:` | :family_woman_girl: `:family_woman_girl:` | 
 | :family_woman_girl_boy: `:family_woman_girl_boy:` | :family_woman_girl_girl:  `:family_woman_girl_girl:` | |
+
+[top](#quick-link)
+<br />
