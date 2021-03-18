@@ -240,7 +240,7 @@
 | :family:  `:family:` | :family_man_woman_boy:  `:family_man_woman_boy:` |  :family_man_woman_girl:  `:family_man_woman_girl:` |
 | :family_man_woman_girl_boy:  `:family_man_woman_girl_boy:` |  :family_man_woman_boy_boy:  `:family_man_woman_boy_boy:` | :family_man_woman_girl_girl: `:family_man_woman_girl_girl:` |
 | :family_man_man_boy:  `:family_man_man_boy:` | :family_man_man_girl:  `:family_man_man_girl:` |  :family_man_man_girl_boy:  `:family_man_man_girl_boy:` | 
-| :family_man_man_boy_boy:  `:family_man_man_boy_boy:` |  :family_man_man_girl_girl: `:family_man_man_girl_girl:`  :family_woman_woman_boy:  `:family_woman_woman_boy:` | 
+| :family_man_man_boy_boy:  `:family_man_man_boy_boy:` |  :family_man_man_girl_girl: `:family_man_man_girl_girl:` | :family_woman_woman_boy:  `:family_woman_woman_boy:` | 
 | :family_woman_woman_girl:  `:family_woman_woman_girl:` | :family_woman_woman_girl_boy:  `:family_woman_woman_girl_boy:` |  :family_woman_woman_boy_boy:  `:family_woman_woman_boy_boy:` |
 | :family_woman_woman_girl_girl:  `:family_woman_woman_girl_girl:` | :family_man_boy:  `:family_man_boy:` | :family_man_boy_boy: `:family_man_boy_boy:` | 
 | :family_man_girl:  `:family_man_girl:` | :family_man_girl_boy:  `:family_man_girl_boy:` |  :family_man_girl_girl: `:family_man_girl_girl:` |
