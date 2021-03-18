@@ -153,7 +153,7 @@
 | :older_man:  `:older_man:` | :older_woman:  `:older_woman:` | :frowning_person:  `:frowning_person:` |
 | :frowning_man:  `:frowning_man:` |   :frowning_woman:  `:frowning_woman:` | :pouting_face:  `:pouting_face:` | 
 |  :pouting_man:  `:pouting_man:` | :pouting_woman:  `:pouting_woman:` |   :no_good:  `:no_good:` | 
-| :ng_man: | `:ng_man:`  `:no_good_man:` |  :ng_woman:  `:ng_woman:` `:no_good_woman:` | :ok_person:  `:ok_person:` | 
+| :ng_man:  `:ng_man:`  `:no_good_man:` |  :ng_woman:  `:ng_woman:` `:no_good_woman:` | :ok_person:  `:ok_person:` | 
 |  :ok_man:  `:ok_man:` | :ok_woman:  `:ok_woman:` |  :information_desk_person:  `:information_desk_person:` `:tipping_hand_person:` | 
 | :sassy_man: `:sassy_man:`  `:tipping_hand_man:` | :sassy_woman: `:sassy_woman:` `:tipping_hand_woman:` | :raising_hand:  `:raising_hand:` | 
 | :raising_hand_man:  `:raising_hand_man:` | :raising_hand_woman:  `:raising_hand_woman:` | :deaf_person:  `:deaf_person:` | 
@@ -161,3 +161,33 @@
 |  :bowing_man:  `:bowing_man:` | :bowing_woman:  `:bowing_woman:` |  :facepalm:  `:facepalm:` |
 | :man_facepalming:  `:man_facepalming:` | :woman_facepalming:  `:woman_facepalming:` | :shrug:  `:shrug:` | 
 |  :man_shrugging:  `:man_shrugging:` | :woman_shrugging:  `:woman_shrugging:` ||
+
+<br />
+
+## Job
+
+| :health_worker:  `:health_worker:` | :man_health_worker:  `:man_health_worker:` | :woman_health_worker:  `:woman_health_worker:` | 
+|:--- |:---|:---|
+| :student:  `:student:` | :man_student:  `:man_student:` | :woman_student:  `:woman_student:` |
+| :teacher:  `:teacher:` | :man_teacher:  `:man_teacher:` | :woman_teacher:  `:woman_teacher:` |
+| :judge: | `:judge:` |  :man_judge:  `:man_judge:` | :woman_judge:  `:woman_judge:` |
+| :farmer: `:farmer:` | :man_farmer:  `:man_farmer:` |  :woman_farmer:  `:woman_farmer:` | 
+| :cook:  `:cook:` |  :man_cook:  `:man_cook:` | :woman_cook: `:woman_cook:` | 
+| :mechanic:  `:mechanic:` | :man_mechanic:  `:man_mechanic:` | :woman_mechanic:  `:woman_mechanic:` | 
+| :factory_worker:  `:factory_worker:` |  :man_factory_worker:  `:man_factory_worker:` | :woman_factory_worker:  `:woman_factory_worker:` | 
+| :office_worker: `:office_worker:` | :man_office_worker:  `:man_office_worker:` |  :woman_office_worker: `:woman_office_worker:` |
+| :scientist: `:scientist:` |  :man_scientist:  `:man_scientist:` | :woman_scientist:  `:woman_scientist:` | 
+| :technologist:  `:technologist:` | :man_technologist:  `:man_technologist:` | :woman_technologist:  `:woman_technologist:` |
+| :singer:  `:singer:` | :man_singer:  `:man_singer:` | :woman_singer:  `:woman_singer:` | 
+| :artist:  `:artist:` | :man_artist:  `:man_artist:` |  :woman_artist:  `:woman_artist:` | 
+| :pilot:  `:pilot:` |  :man_pilot:  `:man_pilot:` | :woman_pilot:  `:woman_pilot:` |
+| :astronaut:  `:astronaut:` | :man_astronaut:  `:man_astronaut:` |  :woman_astronaut:  `:woman_astronaut:` |
+| :firefighter: `:firefighter:` | :man_firefighter:  `:man_firefighter:` | :woman_firefighter:  `:woman_firefighter:` | 
+| :cop:  `:cop:`  `:police_officer:` | :policeman:  `:policeman:` | :policewoman:  `:policewoman:` | 
+| :detective:  `:detective:` |  :male_detective: `:male_detective:` | :female_detective:  `:female_detective:` | 
+| :guard:  `:guard:` | :guardsman:  `:guardsman:` |:guardswoman:  `:guardswoman:` |
+| :construction_worker:  `:construction_worker:` |  :construction_worker_man:  `:construction_worker_man:` | :construction_worker_woman:  `:construction_worker_woman:` |
+| :prince:  `:prince:` | :princess:  `:princess:` |  :person_with_turban: `:person_with_turban:` | 
+| :man_with_turban: `:man_with_turban:` |  :woman_with_turban:  `:woman_with_turban:` | :man_with_gua_pi_mao:  `:man_with_gua_pi_mao:` | 
+| :woman_with_headscarf:  `:woman_with_headscarf:` | :man_in_tuxedo:  `:man_in_tuxedo:` |  :bride_with_veil: `:bride_with_veil:` | 
+| :pregnant_woman:  `:pregnant_woman:` |  :breast_feeding:  `:breast_feeding:` ||
