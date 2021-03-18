@@ -120,6 +120,7 @@
 ## Body
 
 | :wave:  `:wave:` | :raised_back_of_hand:  `:raised_back_of_hand:` |  :raised_hand_with_fingers_splayed: `:raised_hand_with_fingers_splayed:` |
+|:--- |:---|:---|
 | :hand:  `:hand:` `:raised_hand:` | :vulcan_salute:  `:vulcan_salute:` | :ok_hand:  `:ok_hand:` |
 | :pinching_hand:  `:pinching_hand:` |  :v:  `:v:` | :crossed_fingers:  `:crossed_fingers:` | 
 |  :love_you_gesture: `:love_you_gesture:` | :metal:  `:metal:` |  :call_me_hand:  `:call_me_hand:` |
