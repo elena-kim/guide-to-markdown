@@ -160,7 +160,8 @@
 | :deaf_man:  `:deaf_man:` |   :deaf_woman:  `:deaf_woman:` | :bow:  `:bow:` | 
 |  :bowing_man:  `:bowing_man:` | :bowing_woman:  `:bowing_woman:` |  :facepalm:  `:facepalm:` |
 | :man_facepalming:  `:man_facepalming:` | :woman_facepalming:  `:woman_facepalming:` | :shrug:  `:shrug:` | 
-|  :man_shrugging:  `:man_shrugging:` | :woman_shrugging:  `:woman_shrugging:` ||
+|  :man_shrugging:  `:man_shrugging:` | :woman_shrugging:  `:woman_shrugging:` | :speaking_head:  `:speaking_head:` |
+| :bust_in_silhouette:  `:bust_in_silhouette:` || :busts_in_silhouette:  `:busts_in_silhouette:` | :footprints:  `:footprints:` |
 
 <br />
 
@@ -226,3 +227,22 @@
 | :woman_playing_handball:  `:woman_playing_handball:` |  :juggling_person:  `:juggling_person:` | :man_juggling:  `:man_juggling:` | 
 | :woman_juggling:  `:woman_juggling:` |:lotus_position:  `:lotus_position:` | :lotus_position_man:  `:lotus_position_man:` |
 | :lotus_position_woman:  `:lotus_position_woman:` | :bath:  `:bath:` | :sleeping_bed:  `:sleeping_bed:` |
+
+<br />
+
+## Family
+
+| :people_holding_hands:  `:people_holding_hands:` | :two_women_holding_hands:  `:two_women_holding_hands:` |:couple:  `:couple:` |
+|:--- |:---|:---|
+| :two_men_holding_hands:  `:two_men_holding_hands:` |  :couplekiss:  `:couplekiss:` | :couplekiss_man_woman:  `:couplekiss_man_woman:` |
+| :couplekiss_man_man:  `:couplekiss_man_man:` | :couplekiss_woman_woman: `:couplekiss_woman_woman:` |  :couple_with_heart:  `:couple_with_heart:` | 
+| :couple_with_heart_woman_man:  `:couple_with_heart_woman_man:` | :couple_with_heart_man_man:  `:couple_with_heart_man_man:` | :couple_with_heart_woman_woman:  `:couple_with_heart_woman_woman:` | 
+| :family:  `:family:` | :family_man_woman_boy:  `:family_man_woman_boy:` |  :family_man_woman_girl:  `:family_man_woman_girl:` |
+| :family_man_woman_girl_boy:  `:family_man_woman_girl_boy:` |  :family_man_woman_boy_boy:  `:family_man_woman_boy_boy:` | :family_man_woman_girl_girl: `:family_man_woman_girl_girl:` |
+| :family_man_man_boy:  `:family_man_man_boy:` | :family_man_man_girl:  `:family_man_man_girl:` |  :family_man_man_girl_boy:  `:family_man_man_girl_boy:` | 
+| :family_man_man_boy_boy:  `:family_man_man_boy_boy:` |  :family_man_man_girl_girl: `:family_man_man_girl_girl:`  :family_woman_woman_boy:  `:family_woman_woman_boy:` | 
+| :family_woman_woman_girl:  `:family_woman_woman_girl:` | :family_woman_woman_girl_boy:  `:family_woman_woman_girl_boy:` |  :family_woman_woman_boy_boy:  `:family_woman_woman_boy_boy:` |
+| :family_woman_woman_girl_girl:  `:family_woman_woman_girl_girl:` | :family_man_boy:  `:family_man_boy:` | :family_man_boy_boy: `:family_man_boy_boy:` | 
+| :family_man_girl:  `:family_man_girl:` | :family_man_girl_boy:  `:family_man_girl_boy:` |  :family_man_girl_girl: `:family_man_girl_girl:` |
+| :family_woman_boy:  `:family_woman_boy:` |  :family_woman_boy_boy: `:family_woman_boy_boy:` | :family_woman_girl: `:family_woman_girl:` | 
+| :family_woman_girl_boy: `:family_woman_girl_boy:` | :family_woman_girl_girl:  `:family_woman_girl_girl:` | |
