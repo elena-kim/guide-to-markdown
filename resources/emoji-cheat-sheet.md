@@ -170,7 +170,7 @@
 |:--- |:---|:---|
 | :student:  `:student:` | :man_student:  `:man_student:` | :woman_student:  `:woman_student:` |
 | :teacher:  `:teacher:` | :man_teacher:  `:man_teacher:` | :woman_teacher:  `:woman_teacher:` |
-| :judge: | `:judge:` |  :man_judge:  `:man_judge:` | :woman_judge:  `:woman_judge:` |
+| :judge:  `:judge:` |  :man_judge:  `:man_judge:` | :woman_judge:  `:woman_judge:` |
 | :farmer: `:farmer:` | :man_farmer:  `:man_farmer:` |  :woman_farmer:  `:woman_farmer:` | 
 | :cook:  `:cook:` |  :man_cook:  `:man_cook:` | :woman_cook: `:woman_cook:` | 
 | :mechanic:  `:mechanic:` | :man_mechanic:  `:man_mechanic:` | :woman_mechanic:  `:woman_mechanic:` | 
@@ -191,3 +191,38 @@
 | :man_with_turban: `:man_with_turban:` |  :woman_with_turban:  `:woman_with_turban:` | :man_with_gua_pi_mao:  `:man_with_gua_pi_mao:` | 
 | :woman_with_headscarf:  `:woman_with_headscarf:` | :man_in_tuxedo:  `:man_in_tuxedo:` |  :bride_with_veil: `:bride_with_veil:` | 
 | :pregnant_woman:  `:pregnant_woman:` |  :breast_feeding:  `:breast_feeding:` ||
+
+<br />
+
+## Activity
+
+| :massage:  `:massage:` | :massage_man:  `:massage_man:` |  :massage_woman:  `:massage_woman:` | 
+|:--- |:---|:---|
+| :haircut:  `:haircut:` |  :haircut_man:  `:haircut_man:` | :haircut_woman: `:haircut_woman:` |
+| :walking:  `:walking:` | :walking_man:  `:walking_man:` |  :walking_woman:  `:walking_woman:` |
+| :standing_person:  `:standing_person:` |:standing_man:  `:standing_man:` | :standing_woman:  `:standing_woman:` | 
+| :kneeling_person: `:kneeling_person:` | :kneeling_man:  `:kneeling_man:` | :kneeling_woman: `:kneeling_woman:` |
+| :person_with_probing_cane:  `:person_with_probing_cane:` |  :man_with_probing_cane:  `:man_with_probing_cane:` | :woman_with_probing_cane:  `:woman_with_probing_cane:` | 
+| :person_in_motorized_wheelchair:  `:person_in_motorized_wheelchair:` | :man_in_motorized_wheelchair:  `:man_in_motorized_wheelchair:` | :woman_in_motorized_wheelchair: |`:woman_in_motorized_wheelchair:` |
+|:person_in_manual_wheelchair:  `:person_in_manual_wheelchair:` |  :man_in_manual_wheelchair: `:man_in_manual_wheelchair:` | :woman_in_manual_wheelchair: `:woman_in_manual_wheelchair:` | 
+| :runner:  `:runner:`  `:running:` | :running_man:  `:running_man:` | :running_woman:  `:running_woman:` | 
+| :dancer:  `:dancer:` `:woman_dancing:` | :man_dancing:  `:man_dancing:` | :business_suit_levitating:  `:business_suit_levitating:` | 
+| :dancers:  `:dancers:` | :dancing_men:  `:dancing_men:` | :dancing_women:  `:dancing_women:` |
+| :sauna_person:  `:sauna_person:` |  :sauna_man:  `:sauna_man:` | :sauna_woman:  `:sauna_woman:` | 
+| :climbing:  `:climbing:` | :climbing_man:  `:climbing_man:` | :climbing_woman:  `:climbing_woman:` | 
+| :person_fencing:  `:person_fencing:` | :horse_racing:  `:horse_racing:` |:skier: `:skier:` |
+| :snowboarder:  `:snowboarder:` |  :golfing:  `:golfing:` | :golfing_man: `:golfing_man:` | 
+| :golfing_woman:  `:golfing_woman:` | :surfer: `:surfer:` | :surfing_man:  `:surfing_man:` | 
+| :surfing_woman:  `:surfing_woman:` | :rowboat:  `:rowboat:` | :rowing_man:  `:rowing_man:` | 
+| :rowing_woman:  `:rowing_woman:` | :swimmer:  `:swimmer:` |  :swimming_man:  `:swimming_man:` |
+| :swimming_woman:  `:swimming_woman:` | :bouncing_ball_person: `:bouncing_ball_person:` | :basketball_man:  `:basketball_man:` `:bouncing_ball_man:` | 
+| :basketball_woman:  `:basketball_woman:` `:bouncing_ball_woman:` | :weight_lifting:  `:weight_lifting:` |  :weight_lifting_man:  `:weight_lifting_man:` | 
+| :weight_lifting_woman:  `:weight_lifting_woman:` | :bicyclist:  `:bicyclist:` | :biking_man:  `:biking_man:` | 
+| :biking_woman:  `:biking_woman:` | :mountain_bicyclist: `:mountain_bicyclist:` | :mountain_biking_man:  `:mountain_biking_man:` |
+| :mountain_biking_woman:  `:mountain_biking_woman:` |  :cartwheeling:  `:cartwheeling:` | :man_cartwheeling:  `:man_cartwheeling:` |
+| :woman_cartwheeling: `:woman_cartwheeling:` | :wrestling:  `:wrestling:` | :men_wrestling:  `:men_wrestling:` |
+| :women_wrestling:  `:women_wrestling:` | :water_polo:  `:water_polo:` | :man_playing_water_polo:  `:man_playing_water_polo:` | 
+| :woman_playing_water_polo:  `:woman_playing_water_polo:` | :handball_person:  `:handball_person:` |  :man_playing_handball:  `:man_playing_handball:` | 
+| :woman_playing_handball:  `:woman_playing_handball:` |  :juggling_person:  `:juggling_person:` | :man_juggling:  `:man_juggling:` | 
+| :woman_juggling:  `:woman_juggling:` |:lotus_position:  `:lotus_position:` | :lotus_position_man:  `:lotus_position_man:` |
+| :lotus_position_woman:  `:lotus_position_woman:` | :bath:  `:bath:` | :sleeping_bed:  `:sleeping_bed:` |
