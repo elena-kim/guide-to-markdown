@@ -256,16 +256,14 @@ public ICommand Command
 
 ### 7.3 Reference
 ```
-`The Easiest Series`  
-The Easiest Git [Github][git]
+Stackoverflow [Stackoverflow][home]
 
-[git]: https://github.com/devncore/theeasiestgit "Let's get started!"
+[home]: https://stackoverflow.com "Come and join stackoverflow"
 ```
 
-- The Easiest Series  
-  - The Easiest Git [Github][git]
+Stackoverflow [Stackoverflow][home]
 
-[git]: https://github.com/devncore/theeasiestgit "Let's get started!"
+[home]: https://stackoverflow.com "Come and join stackoverflow"
 <br />
 
 ## 8. Images
