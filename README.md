@@ -269,7 +269,7 @@ Stackoverflow [Click Here][home]
 ## 8. Images
 ### 8.1 Connect Link
 ```
-![Github](/images/github_octocat.png)
+![Github](/resources/images/github_octocat.png)
 ```
 
 ![Github](https://user-images.githubusercontent.com/52397976/111568560-526b7780-87e4-11eb-857e-1301063d8c63.png)
@@ -277,8 +277,8 @@ Stackoverflow [Click Here][home]
 
 ### 8.2 Resize
 ```
-<img src="/images/github_octocat.png" width="300" height="300"></img><br />
-<img src="/images/github_octocat.png" width="200" height="200"></img>
+<img src="/resources/images/github_octocat.png" width="300" height="300"></img><br />
+<img src="/resources/images/github_octocat.png" width="200" height="200"></img>
 ```
 
 <img src="https://user-images.githubusercontent.com/52397976/111568582-5c8d7600-87e4-11eb-8c66-8f12aeb4a886.png" width="300" height="300"></img><br />
@@ -318,5 +318,7 @@ Stackoverflow [Click Here][home]
 ```
 :+1: :metal: :octocat:
 
+You can check emoji-cheat-sheet in [here](/resources/emoji-cheat-sheet.md).
 <br />
+
 ### 99.2 Badge
