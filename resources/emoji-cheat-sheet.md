@@ -34,3 +34,6 @@
 | :tired_face:  `:tired_face:` | :yawning_face: `:yawning_face:` | :triumph:  `:triumph:` |
 | :pout:  `:pout:` `:rage:` | :angry: `:angry:` | :cursing_face:  `:cursing_face:` |  :smiling_imp:  `:smiling_imp:` 
 | :imp:  `:imp:` | :skull:  `:skull:` | :skull_and_crossbones: `:skull_and_crossbones:` |
+| :hankey:  `:hankey:` `:poop:` `:shit:` | :clown_face:  `:clown_face:` | :japanese_ogre: `:japanese_ogre:` | 
+| :japanese_goblin:  `:japanese_goblin:` | :ghost:  `:ghost:` | :alien:  `:alien:` |
+| :space_invader:  `:space_invader:` | :robot:  `:robot:` | |
