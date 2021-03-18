@@ -1,7 +1,7 @@
 # theeasiestmarkdown
 
 # _What is the Markdown?_
-<img src="https://github.com/devncore/theeasiestmarkdown/blob/main/resources/images/markdown-logo.png?raw=true" width="180" height="120"></img>
+<img src="https://github.com/devncore/theeasiestmarkdown/blob/main/images/markdown-logo.png?raw=true" width="180" height="120"></img>
 
 __Markdown__ is a lightweight markup language for creating formatted text using a plain-text editor.
 John Gruber and Aaron Swartz created Markdown in 2004 as a markup language that is appealing to human readers in its source code form.
@@ -284,7 +284,7 @@ Stackoverflow [Click Here][home]
 ## 8. Images
 ### 8.1 Connect Link
 ```
-![Github](/resources/images/github_octocat.png)
+![Github](/images/github_octocat.png)
 ```
 
 ![Github](https://user-images.githubusercontent.com/52397976/111568560-526b7780-87e4-11eb-857e-1301063d8c63.png)
@@ -292,8 +292,8 @@ Stackoverflow [Click Here][home]
 
 ### 8.2 Resize
 ```
-<img src="/resources/images/github_octocat.png" width="300" height="300"></img><br />
-<img src="/resources/images/github_octocat.png" width="200" height="200"></img>
+<img src="/images/github_octocat.png" width="300" height="300"></img><br />
+<img src="/images/github_octocat.png" width="200" height="200"></img>
 ```
 
 <img src="https://user-images.githubusercontent.com/52397976/111568582-5c8d7600-87e4-11eb-8c66-8f12aeb4a886.png" width="300" height="300"></img><br />
