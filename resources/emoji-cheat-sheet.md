@@ -23,8 +23,8 @@
 | :sneezing_face:  `:sneezing_face:` | :hot_face:  `:hot_face:` | :cold_face:  `:cold_face:` | 
 | :woozy_face:  `:woozy_face:` | :dizzy_face:  `:dizzy_face:` | :exploding_head: `:exploding_head:` |
 | :cowboy_hat_face: `:cowboy_hat_face:` | :partying_face: `:partying_face:` |:sunglasses:  `:sunglasses:` |
-| :nerd_face: `:nerd_face:` | :monocle_face: `:monocle_face:` | :confused: | `:confused:` | :worried: | `:worried:` | 
-| :slightly_frowning_face: | `:slightly_frowning_face:` | :frowning_face: | `:frowning_face:` | 
+| :nerd_face: `:nerd_face:` | :monocle_face: `:monocle_face:` | :confused:  `:confused:` |
+| :worried: `:worried:` |  :slightly_frowning_face:  `:slightly_frowning_face:` | :frowning_face:  `:frowning_face:` | 
 | :open_mouth: `:open_mouth:` | :hushed:  `:hushed:` |  :astonished:  `:astonished:` |
 | :flushed:  `:flushed:` |  :pleading_face: `:pleading_face:` | :frowning:  `:frowning:` | 
 | :anguished:  `:anguished:` | :fearful:  `:fearful:` | :cold_sweat:  `:cold_sweat:` |
