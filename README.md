@@ -1,9 +1,9 @@
 # theeasiestmarkdown
 
-# What is the `Markdown`?  
-# Why we should study `Markdown`?
-# How to use `Markdown`?  
-# Where can we use `Markdown`?  
+- What is the Markdown?  
+- Why we should study Markdown?
+- How to use Markdown?  
+- Where can we use Markdown?  
 
 ## 1. Header
 ```
