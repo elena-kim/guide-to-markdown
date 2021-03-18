@@ -136,3 +136,28 @@
 | :brain: `:brain:` | :tooth:  `:tooth:` | :bone: `:bone:` |
 | :eyes:  `:eyes:` |  :eye:  `:eye:` | :tongue:  `:tongue:` | 
 | :lips:  `:lips:` | :point_down:  `:point_down:` | :point_up:  `:point_up:` |
+
+<br />
+
+## Person
+
+| :baby:  `:baby:` | :child:  `:child:` | :boy:  `:boy:` | 
+|:--- |:---|:---|
+| :girl:  `:girl:` |  :adult:  `:adult:` | :blond_haired_person:  `:blond_haired_person:` |
+| :man:  `:man:` | :bearded_person:  `:bearded_person:` | :red_haired_man:  `:red_haired_man:` | 
+| :curly_haired_man:  `:curly_haired_man:` |  :white_haired_man:  `:white_haired_man:` | :bald_man:  `:bald_man:` |
+| :woman:  `:woman:` | :red_haired_woman:  `:red_haired_woman:` | :person_red_hair:  `:person_red_hair:` | 
+| :curly_haired_woman:  `:curly_haired_woman:` |  :person_curly_hair:  `:person_curly_hair:` | :white_haired_woman: `:white_haired_woman:` |
+| :person_white_hair:  `:person_white_hair:` | :bald_woman:  `:bald_woman:` | :person_bald:  `:person_bald:` |
+| :blond_haired_woman:  `:blond_haired_woman:` `:blonde_woman:` | :blond_haired_man:  `:blond_haired_man:` | :older_adult:  `:older_adult:` | 
+| :older_man:  `:older_man:` | :older_woman:  `:older_woman:` | :frowning_person:  `:frowning_person:` |
+| :frowning_man:  `:frowning_man:` |   :frowning_woman:  `:frowning_woman:` | :pouting_face:  `:pouting_face:` | 
+|  :pouting_man:  `:pouting_man:` | :pouting_woman:  `:pouting_woman:` |   :no_good:  `:no_good:` | 
+| :ng_man: | `:ng_man:`  `:no_good_man:` |  :ng_woman:  `:ng_woman:` `:no_good_woman:` | :ok_person:  `:ok_person:` | 
+|  :ok_man:  `:ok_man:` | :ok_woman:  `:ok_woman:` |  :information_desk_person:  `:information_desk_person:` `:tipping_hand_person:` | 
+| :sassy_man: `:sassy_man:`  `:tipping_hand_man:` | :sassy_woman: `:sassy_woman:` `:tipping_hand_woman:` | :raising_hand:  `:raising_hand:` | 
+| :raising_hand_man:  `:raising_hand_man:` | :raising_hand_woman:  `:raising_hand_woman:` | :deaf_person:  `:deaf_person:` | 
+| :deaf_man:  `:deaf_man:` |   :deaf_woman:  `:deaf_woman:` | :bow:  `:bow:` | 
+|  :bowing_man:  `:bowing_man:` | :bowing_woman:  `:bowing_woman:` |  :facepalm:  `:facepalm:` |
+| :man_facepalming:  `:man_facepalming:` | :woman_facepalming:  `:woman_facepalming:` | :shrug:  `:shrug:` | 
+|  :man_shrugging:  `:man_shrugging:` | :woman_shrugging:  `:woman_shrugging:` ||
