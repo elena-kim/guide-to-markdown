@@ -95,3 +95,20 @@
 | :ear_of_rice:  `:ear_of_rice:` |  :herb:  `:herb:` | :shamrock:  `:shamrock:` | 
 | :four_leaf_clover:  `:four_leaf_clover:` | :maple_leaf:  `:maple_leaf:` | :fallen_leaf: `:fallen_leaf:` |
 | :leaves:  `:leaves:` |||
+
+<br />
+
+## 4. Emotions
+| :kiss:  `:kiss:` | :love_letter:  `:love_letter:` |  :cupid:  `:cupid:` | 
+|:--- |:---|:---|
+| :gift_heart:  `:gift_heart:` |  :sparkling_heart:  `:sparkling_heart:` | :heartpulse:  `:heartpulse:` |
+| :heartbeat:  `:heartbeat:` | :revolving_hearts:  `:revolving_hearts:` |:two_hearts: `:two_hearts:` |
+| :heart_decoration:  `:heart_decoration:` |  :heavy_heart_exclamation:  `:heavy_heart_exclamation:` | :broken_heart: `:broken_heart:` |
+| :heart:  `:heart:` | :orange_heart:  `:orange_heart:` |  :yellow_heart:  `:yellow_heart:` |
+| :green_heart:  `:green_heart:` |  :blue_heart:  `:blue_heart:` | :purple_heart:  `:purple_heart:` | 
+| :brown_heart:  `:brown_heart:` | :black_heart: `:black_heart:` | :white_heart:  `:white_heart:` | 
+| :100:  `:100:` |  :anger:  `:anger:` | :boom:  `:boom:` `:collision:` | 
+| :dizzy:  `:dizzy:` | :sweat_drops:  `:sweat_drops:` |  :dash:  `:dash:` |
+| :hole:  `:hole:` | :bomb:  `:bomb:` | :speech_balloon:  `:speech_balloon:` | 
+| :eye_speech_bubble:  `:eye_speech_bubble:` | :left_speech_bubble:  `:left_speech_bubble:` | :right_anger_bubble:  `:right_anger_bubble:` |
+| :thought_balloon:  `:thought_balloon:` |  :zzz:  `:zzz:` | |
