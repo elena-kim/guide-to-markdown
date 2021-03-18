@@ -65,5 +65,15 @@
 | :hedgehog:  `:hedgehog:` | :bat: `:bat:` |  :bear:  `:bear:` | 
 | :koala:  `:koala:` |  :panda_face:  `:panda_face:` | :sloth:  `:sloth:` | 
 | :otter:  `:otter:` | :skunk: `:skunk:` | :kangaroo:  `:kangaroo:` |
-| :badger:  `:badger:` | | |
-| :feet: | `:feet:` <br /> `:paw_prints:` |
+| :badger:  `:badger:` |  :feet:  `:feet:`  `:paw_prints:` |:turkey:  `:turkey:` | 
+| :chicken:  `:chicken:` |  :rooster: `:rooster:` | :hatching_chick:  `:hatching_chick:` | 
+|  :baby_chick: `:baby_chick:` | :hatched_chick:  `:hatched_chick:` |:bird:  `:bird:` | 
+| :penguin:  `:penguin:` |  :dove:  `:dove:` | :eagle:  `:eagle:` | 
+|  :duck:  `:duck:` | :swan:  `:swan:` |   :owl: `:owl:` | 
+| :flamingo:  `:flamingo:` | :peacock: `:peacock:` | :parrot: `:parrot:` |
+| :frog:  `:frog:` |  :crocodile:  `:crocodile:` | :turtle:  `:turtle:` | 
+|  :lizard: `:lizard:` | :snake:  `:snake:` | :dragon_face:  `:dragon_face:` |
+| :dragon:  `:dragon:` | :whale:  `:whale:` | :whale2:  `:whale2:` | 
+| :dolphin:  `:dolphin:` `:flipper:` | :fish:  `:fish:` |  :tropical_fish:  `:tropical_fish:` | 
+| :blowfish:  `:blowfish:` |  :shark: `:shark:` | :octopus:  `:octopus:` | 
+| :shell:  `:shell:` |  :sauropod:  `:sauropod:` | :t-rex:  `:t-rex:` |
