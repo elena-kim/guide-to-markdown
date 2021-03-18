@@ -1,4 +1,4 @@
-# theeasiestmarkdown
+# the-easiest-markdown
 
 # _What is the Markdown?_
 <img src="https://github.com/devncore/theeasiestmarkdown/blob/main/images/markdown-logo.png?raw=true" width="180" height="120"></img>
