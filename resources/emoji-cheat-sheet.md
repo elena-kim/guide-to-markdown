@@ -1,15 +1,15 @@
 # emoji-cheat-sheet
 
 # Quick Link
-- [Face] (#face)
-- [Animals] (#animals)
-- [Plants] (#plants)
-- [Emotions] (#emotions)
-- [Body] (#body)
-- [Person] (#person)
-- [Job] (#job)
-- [Activity] (#activity)
-- [Family] (#family)
+- [Face](#face)
+- [Animals](#animals)
+- [Plants](#plants)
+- [Emotions](#emotions)
+- [Body](#body)
+- [Person](#person)
+- [Job](#job)
+- [Activity](#activity)
+- [Family](#family)
 
 <br/>
 
