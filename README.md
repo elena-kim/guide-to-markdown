@@ -1,13 +1,14 @@
 # theeasiestmarkdown
 
-- What is the Markdown?  
-<img src="https://user-images.githubusercontent.com/52397976/111568615-68793800-87e4-11eb-8cf8-2e95f88f2b1c.png" width="200" height="200"></img>
+# _What is the Markdown?_
+<img src="https://github.com/devncore/theeasiestmarkdown/blob/main/resources/images/markdown-logo.png?raw=true" width="180" height="120"></img>
 
 __Markdown__ is a lightweight markup language for creating formatted text using a plain-text editor.
 John Gruber and Aaron Swartz created Markdown in 2004 as a markup language that is appealing to human readers in its source code form.
 Markdown is widely used in blogging, instant messaging, online forums, collaborative software, documentation pages, and readme files.
+<br/>
 
-- Where can we use Markdown?  
+# _Where can we use Markdown?_
   - Github
   - Bitbucket
   - Reddit
@@ -16,7 +17,7 @@ Markdown is widely used in blogging, instant messaging, online forums, collabora
   - etc...
 <br />
 
-- How to use Markdown?
+# _How to use Markdown?_
 
 ## 1. Header
 ```
