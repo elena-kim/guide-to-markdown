@@ -1,11 +1,11 @@
 # theeasiestmarkdown
 
-__What is the `Markdown`?__  
-__Why we should study `Markdown`?__  
-__How to use `Markdown`?__  
-__Where can we use `Markdown`?__  
+# What is the `Markdown`?  
+# Why we should study `Markdown`?
+# How to use `Markdown`?  
+# Where can we use `Markdown`?  
 
-# 1. Header
+## 1. Header
 ```
 # Header 1
 ## Header 2
@@ -40,33 +40,33 @@ Header 2
 
 <br />
 
-# 2. Paragraph
-## 2.1 New Line
+## 2. Paragraph
+### 2.1 New Line
 
 - `<br/>`
 - `space keypress twice`
 
 ```
-Markdown is useful,
-isn't it?
+Hello,
+world!
   
-Markdown is useful, <br /> isn't it?
+Hello, <br /> world!
 
-Markdown is useful,(␠␠)  
-isn't it?
+Hello,(␠␠)  
+world!
 ```
 
-Markdown is useful,
-isn't it?
+Hello,
+world!
   
-Markdown is useful, <br /> isn't it?
-  
-Markdown is useful,  
-isn't it?
+Hello, <br /> world!
+
+Hello,    
+world!
 
 <br />
 
-## 2.2 Horizon
+### 2.2 Horizon
 ```
 * * *
 
@@ -91,8 +91,8 @@ isn't it?
 
 <br />
 
-# 3. List
-## 3.1 Unordered : `-`, `*`, `+`
+## 3. List
+### 3.1 Unordered : `-`, `*`, `+`
 ```
 - Unordered
   - hyphen
@@ -110,7 +110,7 @@ isn't it?
     + plus
 <br />
 
-## 3.2 Ordered : Number
+### 3.2 Ordered : Number
 ```
 1. First
 1. Second
@@ -129,7 +129,7 @@ isn't it?
 
 <br />
 
-# 4. Emphasis
+## 4. Emphasis
 ```
 *Italic* or _Italic_  
 **Bold** or __Bold__
@@ -147,7 +147,7 @@ isn't it?
 
 <br />
 
-# 5. Block Quote
+## 5. Block Quote
 
 ```
 > Write a block quote.
@@ -161,8 +161,8 @@ isn't it?
  
 <br />
 
-# 6. Code
-## 6.1 Inline Code
+## 6. Code
+### 6.1 Inline Code
 ```
 For example, `MessageBox.Show("The Easiest Markdown!")`.
 ```
@@ -171,8 +171,8 @@ For example, `MessageBox.Show("The Easiest Markdown!")`.
 
 <br />
 
-## 6.2 Code Block 
-### 6.2.1 Indent
+### 6.2 Code Block 
+#### 6.2.1 Indent
 ```
 For example, 
 
@@ -189,7 +189,7 @@ For example,
 Enter space four times or press tab.
 *****
 
-### 6.2.2 Multiline
+#### 6.2.2 Multiline
 
 <pre>
 <code>
@@ -211,7 +211,7 @@ public ICommand Command
 }
 ```
 
-### 6.2.3 Code Highlight
+#### 6.2.3 Code Highlight
 
 <pre>
 <code>
@@ -235,15 +235,15 @@ public ICommand Command
 
 <br />
 
-# 7. Link
-## 7.1 Inline Link
+## 7. Link
+### 7.1 Inline Link
 ```
 [DevNcore](https://devncore.org)
 ```
 [DevNcore](https://devncore.org)
 <br />
 
-## 7.2 Url & Email
+### 7.2 Url & Email
 ```
 - DevNcore: https://devncore.org
 - Stackoverflow : <https://stackoverflow.com/>
@@ -254,7 +254,7 @@ public ICommand Command
 - DevNcoreOfficial : <opensource@devncore.org>
 <br />
 
-## 7.3 Reference
+### 7.3 Reference
 ```
 `The Easiest Series`  
 The Easiest Git [Github][git]
@@ -268,19 +268,32 @@ The Easiest Git [Github][git]
 [git]: https://github.com/devncore/theeasiestgit "Let's get started!"
 <br />
 
-# 8. Images
-## 8.1 Connect Link
+## 8. Images
+### 8.1 Connect Link
+```
+![Github](/images/github_octocat.png)
+```
 
-## 8.2 Resize
+![Github](/images/github_octocat.png)
 <br />
 
-# 9. Table
+### 8.2 Resize
+```
+<img src="/images/github_octocat.png" width="300" height="300"></img><br />
+<img src="/images/github_octocat.png" width="200" height="200"></img>
+```
+
+<img src="/images/github_octocat.png" width="300" height="300"></img><br />
+<img src="/images/github_octocat.png" width="200" height="200"></img>
 <br />
 
-# 10. CheckBox
+## 9. Table
 <br />
 
-# 99. ETC
-## 99.1 Emoji
+## 10. CheckBox
+<br />
 
-## 99.2 Badge
+## 99. ETC
+### 99.1 Emoji
+
+### 99.2 Badge
