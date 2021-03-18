@@ -1,322 +1,68 @@
-# theeasiestmarkdown
-
-- What is the Markdown?  
-- Why we should study Markdown?
-- How to use Markdown?  
-- Where can we use Markdown?  
-
-## 1. Header
-```
-# Header 1
-## Header 2
-### Header 3
-#### Header 4
-##### Header 5
-###### Header 6
-```
-
-# Header 1
-## Header 2
-### Header 3
-#### Header 4
-##### Header 5
-###### Header 6
-
-<br />
-
-> Header 1 and Header 2 are same as below.  
-
-```
-Header 1
-=========
-Header 2
----------
-```
-
-Header 1
-=========
-Header 2
----------
-
-<br />
-
-## 2. Paragraph
-### 2.1 New Line
-
-- `<br/>`
-- `space keypress twice`
-
-```
-Hello,
-world!
-  
-Hello, <br /> world!
-
-Hello,(␠␠)  
-world!
-```
-
-Hello,
-world!
-  
-Hello, <br /> world!
-
-Hello,    
-world!
-
-<br />
-
-### 2.2 Horizon
-```
-* * *
-
-***
-
-*****
-
-- - -
-
----------------------------------------
-```
-
-* * *
-
-***
-
-*****
-
-- - -
-
----------------------------------------
-
-<br />
-
-## 3. List
-### 3.1 Unordered : `-`, `*`, `+`
-```
-- Unordered
-  - hyphen
-    - hyphen
-  * asterisks
-    + plus
-    + plus
-```
-
-- Unordered
-  - hyphen
-    - hyphen
-  * asterisks
-    + plus
-    + plus
-<br />
-
-### 3.2 Ordered : Number
-```
-1. First
-1. Second
-1. Third
-    1. First
-    1. Second
-    1. Third
-```
-
-1. First
-1. Second
-1. Third
-    1. First
-    1. Second
-    1. Third
-
-<br />
-
-## 4. Emphasis
-```
-*Italic* or _Italic_  
-**Bold** or __Bold__
-**_Italic_ and Bold**
-~~Cancle~~
-<ins>Underline</ins>  
-```
-
-*Italic* or _Italic_  
-**Bold** or __Bold__  
-**_Italic_ and Bold**  
-~~Cancle~~  
-<ins>Underline</ins>  
-
-
-<br />
-
-## 5. Block Quote
-
-```
-> Write a block quote.
->> You can make nested block quote.
->>> theeasiestmarkdown
-```
-
-> Write a block quote.
->> You can make nested block quote.
->>> theeasiestmarkdown
- 
-<br />
-
-## 6. Code
-### 6.1 Inline Code
-```
-For example, `MessageBox.Show("The Easiest Markdown!")`.
-```
-
-For example, `MessageBox.Show("The Easiest Markdown!")`.
-
-<br />
-
-### 6.2 Code Block 
-#### 6.2.1 Indent
-```
-For example, 
-
-    MessageBox.Show("The Easiest Markdown!"). 
-    
-Enter space four times or press tab.
-```
-
-*****
-For example, 
-
-    MessageBox.Show("The Easiest Markdown!"). 
-    
-Enter space four times or press tab.
-*****
-
-#### 6.2.2 Multiline
-
-<pre>
-<code>
-```
-public ICommand Command
-{
-    get { return (ICommand)this.GetValue(CommandProperty); }
-    set { this.SetValue(CommandProperty, value); }
-}
-```
-</code>
-</pre>
-  
-```
-public ICommand Command
-{
-    get { return (ICommand)this.GetValue(CommandProperty); }
-    set { this.SetValue(CommandProperty, value); }
-}
-```
-
-#### 6.2.3 Code Highlight
-
-<pre>
-<code>
-``` C#
-public ICommand Command
-{
-    get { return (ICommand)this.GetValue(CommandProperty); }
-    set { this.SetValue(CommandProperty, value); }
-}
-```
-</code>
-</pre>
-
-```C#
-public ICommand Command
-{
-    get { return (ICommand)this.GetValue(CommandProperty); }
-    set { this.SetValue(CommandProperty, value); }
-}
-```
-
-<br />
-
-## 7. Link
-### 7.1 Inline Link
-```
-[DevNcore](https://devncore.org)
-```
-[DevNcore](https://devncore.org)
-<br />
-
-### 7.2 Url & Email
-```
-- DevNcore: https://devncore.org
-- Stackoverflow : <https://stackoverflow.com/>
-- DevNcoreOfficial : <opensource@devncore.org>
-```
-- DevNcore: https://devncore.org
-- Stackoverflow : <https://stackoverflow.com/>
-- DevNcoreOfficial : <opensource@devncore.org>
-<br />
-
-### 7.3 Reference
-```
-Stackoverflow [Stackoverflow][home]
-
-[home]: https://stackoverflow.com "Come and join stackoverflow"
-```
-
-Stackoverflow [Click Here][home]
-
-[home]: https://stackoverflow.com "Come and join stackoverflow"
-<br />
-
-## 8. Images
-### 8.1 Connect Link
-```
-![Github](/images/github_octocat.png)
-```
-
-![Github](https://user-images.githubusercontent.com/52397976/111568560-526b7780-87e4-11eb-857e-1301063d8c63.png)
-<br />
-
-### 8.2 Resize
-```
-<img src="/images/github_octocat.png" width="300" height="300"></img><br />
-<img src="/images/github_octocat.png" width="200" height="200"></img>
-```
-
-<img src="https://user-images.githubusercontent.com/52397976/111568582-5c8d7600-87e4-11eb-8c66-8f12aeb4a886.png" width="300" height="300"></img><br />
-<img src="https://user-images.githubusercontent.com/52397976/111568615-68793800-87e4-11eb-8cf8-2e95f88f2b1c.png" width="200" height="200"></img>
-<br />
-
-## 9. Table
-```
-|Title                  |Actor                                        |Opening Date|
-|:----------------------|:--------------------------------------------|:----------:|
-|Black Widow            |Scarlett Johansson, Florence Pugh            |2021.04.29  |
-|Eternals               |Christopher Catesby Harington, Angelina Jolie|2021.02.12  |
-|Spider-Man: No Way Home|Tom Holland, Jamie Foxx, Tobey Maguire       |2021.12.17  |
-```
-
-|Title                  |Actor                                        |Opening Date|
-|:----------------------|:--------------------------------------------|:----------:|
-|Black Widow            |Scarlett Johansson, Florence Pugh            |2021.04.29  |
-|Eternals               |Christopher Catesby Harington, Angelina Jolie|2021.02.12  |
-|Spider-Man: No Way Home|Tom Holland, Jamie Foxx, Tobey Maguire       |2021.12.17  |
-<br />
-
-## 10. CheckBox
-```
-- [ ] To do
-- [x] Done
-```
-
-- [ ] To do
-- [x] Done
-<br />
-
-## 99. ETC
-### 99.1 Emoji
-```
-:+1: :metal: :octocat:
-```
-:+1: :metal: :octocat:
-
-<br />
-### 99.2 Badge
+# emoji-cheat-sheet
+
+## People
+| :bowtie: `:bowtie:` | :smile: `:smile:` | :laughing: `:laughing:` |
+| :blush: `:blush:` | :smiley: `:smiley:` | :relaxed: `:relaxed:` |
+| :smirk: `:smirk:` | :heart_eyes: `:heart_eyes:` | :kissing_heart: `:kissing_heart:` |
+| :kissing_closed_eyes: `:kissing_closed_eyes:` | :flushed: `:flushed:` | :relieved: `:relieved:` |
+| :satisfied: `:satisfied:` | :grin: `:grin:` | :wink: `:wink:` |
+| :stuck_out_tongue_winking_eye: `:stuck_out_tongue_winking_eye:` | :stuck_out_tongue_closed_eyes: `:stuck_out_tongue_closed_eyes:` | :grinning: `:grinning:` |
+| :kissing: `:kissing:` | :kissing_smiling_eyes: `:kissing_smiling_eyes:` | :stuck_out_tongue: `:stuck_out_tongue:` |
+| :sleeping: `:sleeping:` | :worried: `:worried:` | :frowning: `:frowning:` |
+| :anguished: `:anguished:` | :open_mouth: `:open_mouth:` | :grimacing: `:grimacing:` |
+| :confused: `:confused:` | :hushed: `:hushed:` | :expressionless: `:expressionless:` |
+| :unamused: `:unamused:` | :sweat_smile: `:sweat_smile:` | :sweat: `:sweat:` |
+| :disappointed_relieved: `:disappointed_relieved:` | :weary: `:weary:` | :pensive: `:pensive:` |
+| :disappointed: `:disappointed:` | :confounded: `:confounded:` | :fearful: `:fearful:` |
+| :cold_sweat: `:cold_sweat:` | :persevere: `:persevere:` | :cry: `:cry:` |
+| :sob: `:sob:` | :joy: `:joy:` | :astonished: `:astonished:` |
+| :scream: `:scream:` | :neckbeard: `:neckbeard:` | :tired_face: `:tired_face:` |
+| :angry: `:angry:` | :rage: `:rage:` | :triumph: `:triumph:` |
+| :sleepy: `:sleepy:` | :yum: `:yum:` | :mask: `:mask:` |
+| :sunglasses: `:sunglasses:` | :dizzy_face: `:dizzy_face:` | :imp: `:imp:` |
+| :smiling_imp: `:smiling_imp:` | :neutral_face: `:neutral_face:` | :no_mouth: `:no_mouth:` |
+| :innocent: `:innocent:` | :alien: `:alien:` | :yellow_heart: `:yellow_heart:` |
+| :blue_heart: `:blue_heart:` | :purple_heart: `:purple_heart:` | :heart: `:heart:` |
+| :green_heart: `:green_heart:` | :broken_heart: `:broken_heart:` | :heartbeat: `:heartbeat:` |
+| :heartpulse: `:heartpulse:` | :two_hearts: `:two_hearts:` | :revolving_hearts: `:revolving_hearts:` |
+| :cupid: `:cupid:` | :sparkling_heart: `:sparkling_heart:` | :sparkles: `:sparkles:` |
+| :star: `:star:` | :star2: `:star2:` | :dizzy: `:dizzy:` |
+| :boom: `:boom:` | :collision: `:collision:` | :anger: `:anger:` |
+| :exclamation: `:exclamation:` | :question: `:question:` | :grey_exclamation: `:grey_exclamation:` |
+| :grey_question: `:grey_question:` | :zzz: `:zzz:` | :dash: `:dash:` |
+| :sweat_drops: `:sweat_drops:` | :notes: `:notes:` | :musical_note: `:musical_note:` |
+| :fire: `:fire:` | :hankey: `:hankey:` | :poop: `:poop:` |
+| :shit: `:shit:` | :+1: `:+1:` | :thumbsup: `:thumbsup:` |
+| :-1: `:-1:` | :thumbsdown: `:thumbsdown:` | :ok_hand: `:ok_hand:` |
+| :punch: `:punch:` | :facepunch: `:facepunch:` | :fist: `:fist:` |
+| :v: `:v:` | :wave: `:wave:` | :hand: `:hand:` |
+| :raised_hand: `:raised_hand:` | :open_hands: `:open_hands:` | :point_up: `:point_up:` |
+| :point_down: `:point_down:` | :point_left: `:point_left:` | :point_right: `:point_right:` |
+| :raised_hands: `:raised_hands:` | :pray: `:pray:` | :point_up_2: `:point_up_2:` |
+| :clap: `:clap:` | :muscle: `:muscle:` | :metal: `:metal:` |
+| :fu: `:fu:` | :walking: `:walking:` | :runner: `:runner:` |
+| :running: `:running:` | :couple: `:couple:` | :family: `:family:` |
+| :two_men_holding_hands: `:two_men_holding_hands:` | :two_women_holding_hands: `:two_women_holding_hands:` | :dancer: `:dancer:` |
+| :dancers: `:dancers:` | :ok_woman: `:ok_woman:` | :no_good: `:no_good:` |
+| :information_desk_person: `:information_desk_person:` | :raising_hand: `:raising_hand:` | :bride_with_veil: `:bride_with_veil:` |
+| :person_with_pouting_face: `:person_with_pouting_face:` | :person_frowning: `:person_frowning:` | :bow: `:bow:` |
+| :couplekiss: `:couplekiss:` | :couple_with_heart: `:couple_with_heart:` | :massage: `:massage:` |
+| :haircut: `:haircut:` | :nail_care: `:nail_care:` | :boy: `:boy:` |
+| :girl: `:girl:` | :woman: `:woman:` | :man: `:man:` |
+| :baby: `:baby:` | :older_woman: `:older_woman:` | :older_man: `:older_man:` |
+| :person_with_blond_hair: `:person_with_blond_hair:` | :man_with_gua_pi_mao: `:man_with_gua_pi_mao:` | :man_with_turban: `:man_with_turban:` |
+| :construction_worker: `:construction_worker:` | :cop: `:cop:` | :angel: `:angel:` |
+| :princess: `:princess:` | :smiley_cat: `:smiley_cat:` | :smile_cat: `:smile_cat:` |
+| :heart_eyes_cat: `:heart_eyes_cat:` | :kissing_cat: `:kissing_cat:` | :smirk_cat: `:smirk_cat:` |
+| :scream_cat: `:scream_cat:` | :crying_cat_face: `:crying_cat_face:` | :joy_cat: `:joy_cat:` |
+| :pouting_cat: `:pouting_cat:` | :japanese_ogre: `:japanese_ogre:` | :japanese_goblin: `:japanese_goblin:` |
+| :see_no_evil: `:see_no_evil:` | :hear_no_evil: `:hear_no_evil:` | :speak_no_evil: `:speak_no_evil:` |
+| :guardsman: `:guardsman:` | :skull: `:skull:` | :feet: `:feet:` |
+| :lips: `:lips:` | :kiss: `:kiss:` | :droplet: `:droplet:` |
+| :ear: `:ear:` | :eyes: `:eyes:` | :nose: `:nose:` |
+| :tongue: `:tongue:` | :love_letter: `:love_letter:` | :bust_in_silhouette: `:bust_in_silhouette:` |
+| :busts_in_silhouette: `:busts_in_silhouette:` | :speech_balloon: `:speech_balloon:` | :thought_balloon: `:thought_balloon:` |
+| :feelsgood: `:feelsgood:` | :finnadie: `:finnadie:` | :goberserk: `:goberserk:` |
+| :godmode: `:godmode:` | :hurtrealbad: `:hurtrealbad:` | :rage1: `:rage1:` |
+| :rage2: `:rage2:` | :rage3: `:rage3:` | :rage4: `:rage4:` |
+| :suspect: `:suspect:` | :trollface: `:trollface:` | 
