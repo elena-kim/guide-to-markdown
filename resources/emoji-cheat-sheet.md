@@ -1,5 +1,18 @@
 # emoji-cheat-sheet
 
+# Quick Link
+- [Face] (#face)
+- [Animals] (#animals)
+- [Plants] (#plants)
+- [Emotions] (#emotions)
+- [Body] (#body)
+- [Person] (#person)
+- [Job] (#job)
+- [Activity] (#activity)
+- [Family] (#family)
+
+<br/>
+
 ## Face
 
 |:grinning: `:grinning:` | :smiley: `:smiley:` | :smile: `:smile:` |
