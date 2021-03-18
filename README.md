@@ -272,17 +272,21 @@ Stackoverflow [Click Here][home]
 ![Github](/images/github_octocat.png)
 ```
 
-![Github](/images/github_octocat.png)
+![Github](/images/github_octocat.png![image](https://user-images.githubusercontent.com/52397976/111568560-526b7780-87e4-11eb-857e-1301063d8c63.png)
+)
 <br />
 
 ### 8.2 Resize
 ```
-<img src="/images/github_octocat.png" width="300" height="300"></img><br />
-<img src="/images/github_octocat.png" width="200" height="200"></img>
+<img src="/images/github_octocat.png![image](https://user-images.githubusercontent.com/52397976/111568567-57c8c200-87e4-11eb-9232-eafd4fce5360.png)
+" width="300" height="300"></img><br />
+<img src="/images/github_octocat.png![image](https://user-images.githubusercontent.com/52397976/111568578-5a2b1c00-87e4-11eb-8bcb-1f046ab48ca6.png)
+" width="200" height="200"></img>
 ```
 
-<img src="/images/github_octocat.png" width="300" height="300"></img><br />
-<img src="/images/github_octocat.png" width="200" height="200"></img>
+<img src="/images/github_octocat.png![image](https://user-images.githubusercontent.com/52397976/111568582-5c8d7600-87e4-11eb-8c66-8f12aeb4a886.png)
+" width="300" height="300"></img><br />
+<img src="![image](https://user-images.githubusercontent.com/52397976/111568615-68793800-87e4-11eb-8cf8-2e95f88f2b1c.png)" width="200" height="200"></img>
 <br />
 
 ## 9. Table
