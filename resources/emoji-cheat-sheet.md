@@ -1,6 +1,7 @@
 # emoji-cheat-sheet
 
-# Quick Link
+Quick Link
+----------
 - [Face](#face)
 - [Animals](#animals)
 - [Plants](#plants)
