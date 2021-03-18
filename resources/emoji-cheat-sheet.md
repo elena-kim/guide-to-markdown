@@ -37,3 +37,33 @@
 | :hankey:  `:hankey:` `:poop:` `:shit:` | :clown_face:  `:clown_face:` | :japanese_ogre: `:japanese_ogre:` | 
 | :japanese_goblin:  `:japanese_goblin:` | :ghost:  `:ghost:` | :alien:  `:alien:` |
 | :space_invader:  `:space_invader:` | :robot:  `:robot:` | |
+
+<br />
+
+## 2. Animals
+|:smiley_cat:  `:smiley_cat:` | :smile_cat:  `:smile_cat:` |  :joy_cat:  `:joy_cat:` |
+|:--- |:---|:---|
+|:heart_eyes_cat:  `:heart_eyes_cat:` |  :smirk_cat:  `:smirk_cat:` | :kissing_cat:  `:kissing_cat:` |
+| :scream_cat:  `:scream_cat:` | :crying_cat_face:  `:crying_cat_face:` |  :pouting_cat:  `:pouting_cat:` | 
+| :see_no_evil:  `:see_no_evil:` | :hear_no_evil:  `:hear_no_evil:` |  :speak_no_evil:  `:speak_no_evil:` | 
+| :monkey_face:  `:monkey_face:` | :monkey:  `:monkey:` |  :gorilla:  `:gorilla:` | 
+| :orangutan:  `:orangutan:` |  :dog:  `:dog:` | :dog2:  `:dog2:` |
+| :guide_dog: `:guide_dog:` | :service_dog:  `:service_dog:` | :poodle:  `:poodle:` |
+| :wolf:  `:wolf:` | :fox_face: `:fox_face:` | :raccoon:  `:raccoon:` | 
+| :cat:  `:cat:` | :cat2:  `:cat2:` |  :lion:  `:lion:` | 
+| :tiger:  `:tiger:` | :tiger2:  `:tiger2:` | :leopard:  `:leopard:` |
+| :horse:  `:horse:` | :racehorse:  `:racehorse:` | :unicorn: `:unicorn:` | 
+| :zebra:  `:zebra:` | :deer:  `:deer:` | :cow:  `:cow:` | 
+| :ox:  `:ox:` | :water_buffalo:  `:water_buffalo:` | :cow2:  `:cow2:` |
+| :pig: `:pig:` |  :pig2:  `:pig2:` | :boar:  `:boar:` | 
+| :pig_nose:  `:pig_nose:` | :ram:  `:ram:` |:sheep: `:sheep:` |
+| :goat:  `:goat:` |  :dromedary_camel:  `:dromedary_camel:` | :camel:  `:camel:` | 
+| :llama:  `:llama:` | :giraffe:  `:giraffe:` |  :elephant:  `:elephant:` | 
+| :rhinoceros:  `:rhinoceros:` | :hippopotamus:  `:hippopotamus:` | :mouse:  `:mouse:` | 
+| :mouse2:  `:mouse2:` | :rat:  `:rat:` |  :hamster:  `:hamster:` |
+| :rabbit:  `:rabbit:` |  :rabbit2: `:rabbit2:` | :chipmunk:  `:chipmunk:` |
+| :hedgehog:  `:hedgehog:` | :bat: `:bat:` |  :bear:  `:bear:` | 
+| :koala:  `:koala:` |  :panda_face:  `:panda_face:` | :sloth:  `:sloth:` | 
+| :otter:  `:otter:` | :skunk: `:skunk:` | :kangaroo:  `:kangaroo:` |
+| :badger:  `:badger:` | | |
+| :feet: | `:feet:` <br /> `:paw_prints:` |
