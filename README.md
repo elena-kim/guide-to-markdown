@@ -1,9 +1,22 @@
 # theeasiestmarkdown
 
 - What is the Markdown?  
-- Why we should study Markdown?
-- How to use Markdown?  
+<img src="https://user-images.githubusercontent.com/52397976/111568615-68793800-87e4-11eb-8cf8-2e95f88f2b1c.png" width="200" height="200"></img>
+
+__Markdown__ is a lightweight markup language for creating formatted text using a plain-text editor.
+John Gruber and Aaron Swartz created Markdown in 2004 as a markup language that is appealing to human readers in its source code form.
+Markdown is widely used in blogging, instant messaging, online forums, collaborative software, documentation pages, and readme files.
+
 - Where can we use Markdown?  
+  - Github
+  - Bitbucket
+  - Reddit
+  - Diaspora
+  - Stack Exchange
+  - etc...
+<br />
+
+- How to use Markdown?
 
 ## 1. Header
 ```
@@ -110,7 +123,7 @@ world!
     + plus
 <br />
 
-### 3.2 Ordered : Number
+### 3.2 Ordered : number
 ```
 1. First
 1. Second
@@ -283,6 +296,7 @@ Stackoverflow [Click Here][home]
 
 <img src="https://user-images.githubusercontent.com/52397976/111568582-5c8d7600-87e4-11eb-8c66-8f12aeb4a886.png" width="300" height="300"></img><br />
 <img src="https://user-images.githubusercontent.com/52397976/111568615-68793800-87e4-11eb-8cf8-2e95f88f2b1c.png" width="200" height="200"></img>
+
 <br />
 
 ## 9. Table
@@ -299,6 +313,7 @@ Stackoverflow [Click Here][home]
 |Black Widow            |Scarlett Johansson, Florence Pugh            |2021.04.29  |
 |Eternals               |Christopher Catesby Harington, Angelina Jolie|2021.02.12  |
 |Spider-Man: No Way Home|Tom Holland, Jamie Foxx, Tobey Maguire       |2021.12.17  |
+
 <br />
 
 ## 10. CheckBox
@@ -319,6 +334,7 @@ Stackoverflow [Click Here][home]
 :+1: :metal: :octocat:
 
 You can check emoji-cheat-sheet in [here](/resources/emoji-cheat-sheet.md).
+
 <br />
 
 ### 99.2 Badge
