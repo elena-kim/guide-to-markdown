@@ -335,7 +335,7 @@ Stackoverflow [Click Here][home]
 ```
 :+1: :metal: :octocat:
 
-You can check emoji-cheat-sheet in [here](/resources/emoji-cheat-sheet.md).
+You can check emoji-cheat-sheet in [here](https://github.com/devncore/emoji-cheat-sheet).
 
 <br />
 
