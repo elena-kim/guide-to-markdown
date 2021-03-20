@@ -230,7 +230,7 @@ public ICommand Command
 
 <pre>
 <code>
-``` C#
+```C#
 public ICommand Command
 {
     get { return (ICommand)this.GetValue(CommandProperty); }
