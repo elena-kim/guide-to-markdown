@@ -25,17 +25,17 @@ Markdown is widely used in blogging, instant messaging, online forums, collabora
 <br />
 
 ## _How to use Markdown?_
-- [Header](#header)
-- [Paragraph](#paragraph)
-- [List](#list)
-- [Emphasis](#emphasis)
-- [Block Quote](#block-quote)
-- [Code](#code)
-- [Link](#link)
-- [Images](#images)
-- [Table](#table)
-- [CheckBox](#checkbox)
-- [ETC](#etc)
+- [Header](#1-header)
+- [Paragraph](#2-paragraph)
+- [List](#3-list)
+- [Emphasis](#4-emphasis)
+- [Block Quote](#5-block-quote)
+- [Code](#6-code)
+- [Link](#7-link)
+- [Images](#8-images)
+- [Table](#9-table)
+- [CheckBox](#10-checkbox)
+- [ETC](#99-etc)
 <br />
 
 ## 1. Header
