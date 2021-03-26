@@ -1,9 +1,9 @@
 # the-easiest-markdown
 
 ## Overview
-- [What is the Markdown?](#_what-is-the-markdown?_)
-- [Where can we use Markdown?](#where-can-we-use-markdown?)
-- [How to use Markdown?](#how-to-use-markdown?)
+- [What is the Markdown?](#what-is-the-markdown)
+- [Where can we use Markdown?](#where-can-we-use-markdown)
+- [How to use Markdown?](#how-to-use-markdown)
 <br />
 
 ## _What is the Markdown?_
