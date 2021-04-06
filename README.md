@@ -272,11 +272,11 @@ public ICommand Command
 ### 7.1 Inline Link
 ```
 [DevNcore](https://devncore.org)
-**DevNcore Open Source** [:octocat:](https://github.com/devncore/devncore) 
+**Octocat** [:octocat:](https://github.com/octocat) 
 
 ```
 [DevNcore](https://devncore.org)  
-**DevNcore Open Source** [:octocat:](https://github.com/devncore/devncore) 
+**Octocat** [:octocat:](https://github.com/octocat) 
 <br />
 
 ### 7.2 Url & Email
