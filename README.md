@@ -293,6 +293,7 @@ public ICommand Command
 [DevNcore](https://devncore.org)  
 **Octocat** [:octocat:](https://github.com/octocat) 
 
+<br />
 
 ### 7.2 Url & Email
 ```
@@ -303,7 +304,7 @@ public ICommand Command
 - DevNcore: https://devncore.org
 - Stackoverflow : <https://stackoverflow.com/>
 - DevNcoreOfficial : <opensource@devncore.org>
-
+<br />
 
 ### 7.3 Reference
 ```
