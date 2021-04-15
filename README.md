@@ -91,7 +91,7 @@ Header 2
 ## 2. Paragraph
 ### 2.1 New Line
 
-- `<br/>`
+- `<br />`
 - `space keypress twice`
 
 ```
