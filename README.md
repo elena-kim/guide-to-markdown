@@ -229,13 +229,13 @@ For example,
 Enter space four times or press tab.
 ```
 
-*****
+
 For example, 
 
     MessageBox.Show("The Easiest Markdown!"). 
     
 Enter space four times or press tab.
-*****
+
 
 #### 6.2.2 Multiline
 
