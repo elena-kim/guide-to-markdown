@@ -308,7 +308,7 @@ public ICommand Command
 
 ### 7.3 Reference
 ```
-Stackoverflow [Stackoverflow][home]
+Stackoverflow [Click Here][home]
 
 [home]: https://stackoverflow.com "Come and join stackoverflow"
 ```
