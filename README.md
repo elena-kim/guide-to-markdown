@@ -50,6 +50,7 @@ Markdown is widely used in blogging, instant messaging, online forums, collabora
 - [Images](#8-images)
 - [Table](#9-table)
 - [CheckBox](#10-checkbox)
+- [Backslash Escapes](#11-backslash-escapes)
 - [ETC](#99-etc)
 <br />
 
@@ -363,6 +364,27 @@ Stackoverflow [Click Here][home]
 
 - [ ] To do
 - [x] Done
+<br />
+
+## 11. Backslash Escapes
+Markdown allows you to use backslash escapes to generate literal characters which would otherwise have special meaning in Markdown’s formatting syntax.
+```
+\*literal asterisks\*
+```
+\*literal asterisks\*
+
+<br />
+Markdown provides backslash escapes for the following characters:
+
+```
+\ backslash        () parentheses
+` backtick          # hash mark
+* asterisk          _ underscore
+{} curly braces    [] square brackets
++ plus sign         - minus sign (hyphen)
+. dot               ! exclamation mark
+```
+
 <br />
 
 ## 99. ETC
