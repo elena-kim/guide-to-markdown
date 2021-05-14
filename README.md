@@ -51,6 +51,7 @@ Markdown is widely used in blogging, instant messaging, online forums, collabora
 - [Table](#9-table)
 - [CheckBox](#10-checkbox)
 - [Backslash Escapes](#11-backslash-escapes)
+- [Youtube Video Link](#12-youtube-video-link)
 - [ETC](#99-etc)
 <br />
 
@@ -384,6 +385,57 @@ Markdown provides backslash escapes for the following characters:
 + plus sign         - minus sign (hyphen)
 . dot               ! exclamation mark
 ```
+
+<br />
+
+## 12. Youtube Video Link
+Markdown does not support video embed by default, but you can use images to link YouTube video. 
+
+```
+[![Black Widow](https://img.youtube.com/vi/Fp9pNPdNwjI/default.jpg)](https://www.youtube.com/watch?v=Fp9pNPdNwjI) 
+```
+**`Fp9pNPdNwjI`** is the unique address of the video and you can check the YouTube video link.  
+![link](https://i.stack.imgur.com/NiGiv.png)
+
+And there are some **size options**.
+#### `/default`, `/1`, `/2`, `/3`
+[![Black Widow](https://img.youtube.com/vi/Fp9pNPdNwjI/default.jpg)](https://www.youtube.com/watch?v=Fp9pNPdNwjI)  
+[![Black Widow](https://img.youtube.com/vi/Fp9pNPdNwjI/1.jpg)](https://www.youtube.com/watch?v=Fp9pNPdNwjI)  
+[![Black Widow](https://img.youtube.com/vi/Fp9pNPdNwjI/2.jpg)](https://www.youtube.com/watch?v=Fp9pNPdNwjI)  
+[![Black Widow](https://img.youtube.com/vi/Fp9pNPdNwjI/3.jpg)](https://www.youtube.com/watch?v=Fp9pNPdNwjI)  
+
+#### `/mqdefault`
+[![Black Widow](https://img.youtube.com/vi/Fp9pNPdNwjI/mqdefault.jpg)](https://www.youtube.com/watch?v=Fp9pNPdNwjI)  
+
+#### `/hqdefault`
+[![Black Widow](https://img.youtube.com/vi/Fp9pNPdNwjI/hqdefault.jpg)](https://www.youtube.com/watch?v=Fp9pNPdNwjI)  
+
+#### `/sddefault`
+[![Black Widow](https://img.youtube.com/vi/Fp9pNPdNwjI/sddefault.jpg)](https://www.youtube.com/watch?v=Fp9pNPdNwjI)
+
+#### `/maxresdefault`
+[![Black Widow](https://img.youtube.com/vi/Fp9pNPdNwjI/maxresdefault.jpg)](https://www.youtube.com/watch?v=Fp9pNPdNwjI)
+
+#### ✔️ You can also specify the start point of the video when the image is clicked.  
+> Just add `?t=` followed by The unique code of the video link.
+
+#### `second`
+```
+[![Black Widow](https://img.youtube.com/vi/Fp9pNPdNwjI/mqdefault.jpg)](https://youtu.be/Fp9pNPdNwjI?t=29)  
+```
+[![Black Widow](https://img.youtube.com/vi/Fp9pNPdNwjI/mqdefault.jpg)](https://youtu.be/Fp9pNPdNwjI?t=29)  
+
+#### `minute&second`
+```
+[![Black Widow](https://img.youtube.com/vi/Fp9pNPdNwjI/mqdefault.jpg)](https://youtu.be/Fp9pNPdNwjI?t=1m24s)
+```
+[![Black Widow](https://img.youtube.com/vi/Fp9pNPdNwjI/mqdefault.jpg)](https://youtu.be/Fp9pNPdNwjI?t=1m24s)
+
+#### `hour&minute&second`
+```
+[![The Greatest Showman](https://img.youtube.com/vi/gQa8bAtZkiY/mqdefault.jpg)](https://youtu.be/gQa8bAtZkiY?t=1h5m10s)
+```
+[![The Greatest Showman](https://img.youtube.com/vi/gQa8bAtZkiY/mqdefault.jpg)](https://youtu.be/gQa8bAtZkiY?t=1h5m10s)
 
 <br />
 
