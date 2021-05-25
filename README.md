@@ -52,6 +52,7 @@ Markdown is widely used in blogging, instant messaging, online forums, collabora
 - [CheckBox](#10-checkbox)
 - [Backslash Escapes](#11-backslash-escapes)
 - [Youtube Video Link](#12-youtube-video-link)
+- [Collapsible Section](#13-collapsible-section)
 - [ETC](#99-etc)
 <br />
 
@@ -436,6 +437,41 @@ And there are some **size options**.
 [![The Greatest Showman](https://img.youtube.com/vi/gQa8bAtZkiY/mqdefault.jpg)](https://youtu.be/gQa8bAtZkiY?t=1h5m10s)
 ```
 [![The Greatest Showman](https://img.youtube.com/vi/gQa8bAtZkiY/mqdefault.jpg)](https://youtu.be/gQa8bAtZkiY?t=1h5m10s)
+
+<br />
+
+## 13. Collapsible Section
+```
+<details>
+  <summary>Click to expand!</summary>
+
+  ## Heading
+  > `tag`
+  1. A numbered
+  2. list
+     * With some
+     * Sub bullets  
+
+    ```c#
+    Console.WriteLine(Hello World!);
+    ```
+</details>
+```
+
+<details>
+  <summary>Click to expand!</summary>
+  
+  ## Heading
+  > `tag`
+  1. A numbered
+  2. list
+     * With some
+     * Sub bullets  
+     
+  ```c#
+  Console.WriteLine(Hello World!);
+  ```
+</details>
 
 <br />
 
