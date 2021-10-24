@@ -7,7 +7,6 @@
   <a href="https://github.com/devncore/devncore"><strong>더 알아보기 »</strong></a>
  
   <br />
-  <br />
  
   <p align="center">
    <a href="https://github.com/devncore/the-easiest-markdown/stargazers"><img src="https://img.shields.io/github/stars/devncore/the-easiest-markdown" alt="Github Stars"></a>
