@@ -1,23 +1,15 @@
-<div align=center>
-  <h2>The Easiest Markdown</h2>
-  <br/>
- 
-  이 레포지토리는 DevNcore팀이 관리하고 있습니다.
-  <br />
-  
-  <a href="https://github.com/devncore/devncore"><strong>더 알아보기 »</strong></a>
- 
-  <br />
- 
-  <p align="center">
-   <a href="https://github.com/devncore/the-easiest-markdown/stargazers"><img src="https://img.shields.io/github/stars/devncore/the-easiest-markdown" alt="Github Stars"></a>
-   <img src="https://img.shields.io/github/license/devncore/the-easiest-markdown" alt="License">
-   <a href="https://github.com/devncore/the-easiest-markdown/pulse"><img src="https://img.shields.io/github/commit-activity/m/devncore/the-easiest-markdown" alt="Commits-per-month"></a>
- </p>
-</div>
+## The Easiest Markdown
 
-  <br />
-  
+이 리포지토리는 Yaml의 기본적인 사용법에 대해 기술한 리포지토리입니다. <br />
+이 리포지토리는 DevNcore팀이 관리하고 있습니다.  
+
+<a href="https://github.com/devncore/devncore"><strong>더 알아보기 »</strong></a>
+ 
+| Star | License | Activity |
+|:----:|:-------:|:--------:|
+| <a href="https://github.com/devncore/the-easiest-markdown/stargazers"><img src="https://img.shields.io/github/stars/devncore/the-easiest-markdown" alt="Github Stars"></a> | <img src="https://img.shields.io/github/license/devncore/the-easiest-markdown" alt="License"> | <a href="https://github.com/devncore/the-easiest-markdown/pulse"><img src="https://img.shields.io/github/commit-activity/m/devncore/the-easiest-markdown" alt="Commits-per-month"></a> |
+
+<br />
 
 ## Overview
 - [What is the Markdown?](#what-is-the-markdown)
