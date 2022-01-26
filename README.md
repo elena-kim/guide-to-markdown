@@ -355,7 +355,8 @@ Stackoverflow [Click Here][home]
 \*literal asterisks\*
 
 <br />
-마크다운은 아래 문자들에 대해 백슬래시 이스케이프를 제공합니다: 
+
+마크다운은 아래 문자들에 대해 백슬래시 이스케이프를 제공합니다.   
 
 ```
 \ backslash        () parentheses
@@ -397,7 +398,7 @@ Stackoverflow [Click Here][home]
 [![Black Widow](https://img.youtube.com/vi/Fp9pNPdNwjI/maxresdefault.jpg)](https://www.youtube.com/watch?v=Fp9pNPdNwjI)
 
 #### ✔️ 이미지를 클릭했을 때 영상의 시작 시간을 지정할 수도 있습니다.   
-> Just add `?t=` followed by The unique code of the video link.
+> 영상의 고유 주소 바로 뒤에 `?t=`를 추가하여 시간을 표시합니다. 
 
 #### `second`
 ```
@@ -461,7 +462,7 @@ Stackoverflow [Click Here][home]
 ```
 :+1: :metal: :octocat:
 
-[emoji-cheat-sheet](https://github.com/devncore/emoji-cheat-sheet)에서 더 많은  확인해보세요.
+[emoji-cheat-sheet](https://github.com/devncore/emoji-cheat-sheet)에서 더 많은 이모지를 확인해보세요.
 
 <br />
 
@@ -477,5 +478,3 @@ https://shields.io/
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
 [![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/)
-
- 
