@@ -369,15 +369,15 @@ Stackoverflow [Click Here][home]
 <br />
 
 ## 12. 유튜브 동영상 링크
-Markdown does not support video embed by default, but you can use images to link YouTube video. 
+마크다운은 기본적으로 동영상 삽입 기능을 지원하지 않지만, 이미지를 사용해서 유튜브 영상 링크를 연결시킬 수 있습니다.
 
 ```
 [![Black Widow](https://img.youtube.com/vi/Fp9pNPdNwjI/default.jpg)](https://www.youtube.com/watch?v=Fp9pNPdNwjI) 
 ```
-**`Fp9pNPdNwjI`** is the unique address of the video and you can check the YouTube video link.  
+**`Fp9pNPdNwjI`** 이 부분이 동영상의 고유 주소이며 유튜브 영상 링크에서 확인할 수 있습니다.   
 ![link](https://i.stack.imgur.com/NiGiv.png)
 
-And there are some **size options**.
+또한 몇 가지 **사이즈 옵션** 도 존재합니다.
 #### `/default`, `/1`, `/2`, `/3`
 [![Black Widow](https://img.youtube.com/vi/Fp9pNPdNwjI/default.jpg)](https://www.youtube.com/watch?v=Fp9pNPdNwjI)  
 [![Black Widow](https://img.youtube.com/vi/Fp9pNPdNwjI/1.jpg)](https://www.youtube.com/watch?v=Fp9pNPdNwjI)  
@@ -396,7 +396,7 @@ And there are some **size options**.
 #### `/maxresdefault`
 [![Black Widow](https://img.youtube.com/vi/Fp9pNPdNwjI/maxresdefault.jpg)](https://www.youtube.com/watch?v=Fp9pNPdNwjI)
 
-#### ✔️ You can also specify the start point of the video when the image is clicked.  
+#### ✔️ 이미지를 클릭했을 때 영상의 시작 시간을 지정할 수도 있습니다.   
 > Just add `?t=` followed by The unique code of the video link.
 
 #### `second`
@@ -422,7 +422,7 @@ And there are some **size options**.
 ## 13. Collapsible Section
 ```
 <details>
-  <summary>Click to expand!</summary>
+  <summary>펼쳐보기</summary>
 
   ## Heading
   > `tag`
@@ -438,7 +438,7 @@ And there are some **size options**.
 ```
 
 <details>
-  <summary>Click to expand!</summary>
+  <summary>펼쳐보기</summary>
   
   ## Heading
   > `tag`
@@ -461,7 +461,7 @@ And there are some **size options**.
 ```
 :+1: :metal: :octocat:
 
-You can check emoji-cheat-sheet in [here](https://github.com/devncore/emoji-cheat-sheet).
+[emoji-cheat-sheet](https://github.com/devncore/emoji-cheat-sheet)에서 더 많은  확인해보세요.
 
 <br />
 
