@@ -9,45 +9,27 @@
 | <a href="https://github.com/devncore/the-easiest-markdown/stargazers"><img src="https://img.shields.io/github/stars/devncore/the-easiest-markdown" alt="Github Stars"></a> | <img src="https://img.shields.io/github/license/devncore/the-easiest-markdown" alt="License"> | <a href="https://github.com/devncore/the-easiest-markdown/pulse"><img src="https://img.shields.io/github/commit-activity/m/devncore/the-easiest-markdown" alt="Commits-per-month"></a> |
 
 <br />
-
-## Overview
-- [What is the Markdown?](#what-is-the-markdown)
-- [Where can we use Markdown?](#where-can-we-use-markdown)
-- [How to use Markdown?](#how-to-use-markdown)
 <br />
 
-## _What is the Markdown?_
 <img src="https://github.com/devncore/theeasiestmarkdown/blob/main/images/markdown-logo.png?raw=true" width="180" height="120"></img>
 
-__Markdown__ is a lightweight markup language for creating formatted text using a plain-text editor.
-John Gruber and Aaron Swartz created Markdown in 2004 as a markup language that is appealing to human readers in its source code form.
-Markdown is widely used in blogging, instant messaging, online forums, collaborative software, documentation pages, and readme files.
+**마크다운(Markdown)** 은 일반 텍스트 편집기를 사용하여 정형화된 텍스트를 만들기 위한 경량 마크업 언어입니다. 2004년 John Gruber와 Aaron Swartz에 의해 만들어졌으며, 문법이 간단하기 때문에 사람들이 쉽게 읽고 쓸 수 있습니다. 마크다운은 블로그, 메신저, 온라인 포럼, 협업 소프트웨어, 문서 페이지 및 README 파일에 널리 사용되고 있습니다.
 
 <br/>
 
-## _Where can we use Markdown?_
-  - Github
-  - Bitbucket
-  - Reddit
-  - Diaspora
-  - Stack Exchange
-  - [DotNetDev](https://dotnetdev.kr)
-  - ETC...
-<br />
-
-## _How to use Markdown?_
+## Contents
 - [Header](#1-header)
-- [Paragraph](#2-paragraph)
+- [문단](#2-문단)
 - [List](#3-list)
-- [Emphasis](#4-emphasis)
-- [Block Quote](#5-block-quote)
+- [강조](#4-강조)
+- [인용구](#5-인용구)
 - [Code](#6-code)
-- [Link](#7-link)
-- [Images](#8-images)
-- [Table](#9-table)
-- [CheckBox](#10-checkbox)
-- [Backslash Escapes](#11-backslash-escapes)
-- [Youtube Video Link](#12-youtube-video-link)
+- [링크](#7-링크)
+- [이미지](#8-이미지)
+- [테이블](#9-테이블)
+- [체크박스](#10-체크박스)
+- [백슬래시 이스케이프](#11-백슬래시-이스케이프)
+- [유튜브 동영상 링크](#12-유튜브-동영상-링크)
 - [Collapsible Section](#13-collapsible-section)
 - [ETC](#99-etc)
 <br />
@@ -71,7 +53,7 @@ Markdown is widely used in blogging, instant messaging, online forums, collabora
 
 <br />
 
-> Header 1 and Header 2 are same as below.  
+> Header 1과 Header 2는 아래와 같이 표현할 수도 있습니다.  
 
 ```
 Header 1
@@ -87,8 +69,8 @@ Header 2
 
 <br />
 
-## 2. Paragraph
-### 2.1 New Line
+## 2. 문단
+### 2.1 개행
 
 - `<br />`
 - `space keypress twice`
@@ -113,7 +95,7 @@ world!
 
 <br />
 
-### 2.2 Horizon
+### 2.2 수평선
 ```
 * * *
 
@@ -139,7 +121,7 @@ world!
 <br />
 
 ## 3. List
-### 3.1 Unordered : `-`, `*`, `+`
+### 3.1 순서가 없는 경우 : `-`, `*`, `+`
 ```
 - Unordered
   - hyphen
@@ -157,7 +139,7 @@ world!
     + plus
 <br />
 
-### 3.2 Ordered : number
+### 3.2 순서가 있는 경우 : 숫자
 ```
 1. First
 1. Second
@@ -176,7 +158,7 @@ world!
 
 <br />
 
-## 4. Emphasis
+## 4. 강조
 ```
 *Italic* or _Italic_  
 **Bold** or __Bold__
@@ -194,7 +176,7 @@ world!
 
 <br />
 
-## 5. Block Quote
+## 5. 인용구
 
 ```
 > Write a block quote.
@@ -209,7 +191,7 @@ world!
 <br />
 
 ## 6. Code
-### 6.1 Inline Code
+### 6.1 인라인 코드
 ```
 For example, `MessageBox.Show("The Easiest Markdown!")`.
 ```
@@ -218,8 +200,8 @@ For example, `MessageBox.Show("The Easiest Markdown!")`.
 
 <br />
 
-### 6.2 Code Block 
-#### 6.2.1 Indent
+### 6.2 코드 블럭 
+#### 6.2.1 들여쓰기
 ```
 For example, 
 
@@ -236,7 +218,7 @@ For example,
 Enter space four times or press tab.
 
 
-#### 6.2.2 Multiline
+#### 6.2.2 여러 줄의 코드
 
 <pre>
 <code>
@@ -258,7 +240,8 @@ public ICommand Command
 }
 ```
 
-#### 6.2.3 Code Highlight
+#### 6.2.3 코드 하이라이트
+<code>```</code> 뒤에 하이라이팅을 적용하고 싶은 언어를 명시합니다. (C#, java, python 등등)
 
 <pre>
 <code>
@@ -282,7 +265,7 @@ public ICommand Command
 
 <br />
 
-## 7. Link
+## 7. 링크
 ### 7.1 Inline Link
 ```
 [DevNcore](https://devncore.org)
@@ -317,7 +300,7 @@ Stackoverflow [Click Here][home]
 [home]: https://stackoverflow.com "Come and join stackoverflow"
 <br />
 
-## 8. Images
+## 8. 이미지 
 ### 8.1 Connect Link
 ```
 ![Github](/images/github_octocat.png)
@@ -326,7 +309,7 @@ Stackoverflow [Click Here][home]
 ![Github](https://user-images.githubusercontent.com/52397976/111568560-526b7780-87e4-11eb-857e-1301063d8c63.png)
 <br />
 
-### 8.2 Resize
+### 8.2 사이즈 조정 
 ```
 <img src="/images/github_octocat.png" width="300" height="300"></img><br />
 <img src="/images/github_octocat.png" width="200" height="200"></img>
@@ -337,7 +320,7 @@ Stackoverflow [Click Here][home]
 
 <br />
 
-## 9. Table
+## 9. 테이블 
 ```
 |Title                  |Actor                                        |Opening Date|
 |:----------------------|:--------------------------------------------|:----------:|
@@ -354,7 +337,7 @@ Stackoverflow [Click Here][home]
 
 <br />
 
-## 10. CheckBox
+## 10. 체크박스 
 ```
 - [ ] To do
 - [x] Done
@@ -364,15 +347,15 @@ Stackoverflow [Click Here][home]
 - [x] Done
 <br />
 
-## 11. Backslash Escapes
-Markdown allows you to use backslash escapes to generate literal characters which would otherwise have special meaning in Markdown’s formatting syntax.
+## 11. 백슬래시 이스케이프 
+마크다운에서는 \*, \`, \\ 와 같이 특별한 의미를 가진 마크업 문자 그 자체를 얻기 위해서 backslash(\\)를 사용합니다. 
 ```
 \*literal asterisks\*
 ```
 \*literal asterisks\*
 
 <br />
-Markdown provides backslash escapes for the following characters:
+마크다운은 아래 문자들에 대해 백슬래시 이스케이프를 제공합니다: 
 
 ```
 \ backslash        () parentheses
@@ -385,7 +368,7 @@ Markdown provides backslash escapes for the following characters:
 
 <br />
 
-## 12. Youtube Video Link
+## 12. 유튜브 동영상 링크
 Markdown does not support video embed by default, but you can use images to link YouTube video. 
 
 ```
