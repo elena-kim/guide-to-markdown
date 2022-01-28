@@ -1,4 +1,4 @@
-## The Easiest Markdown
+## Guide to Markdown
 
 이 리포지토리는 Markdown의 기본적인 사용법에 대해 기술한 리포지토리입니다. <br />
 
