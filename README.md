@@ -6,7 +6,7 @@
  
 | Star | License | Activity |
 |:----:|:-------:|:--------:|
-| <a href="https://github.com/devncore/the-easiest-markdown/stargazers"><img src="https://img.shields.io/github/stars/devncore/the-easiest-markdown" alt="Github Stars"></a> | <img src="https://img.shields.io/github/license/devncore/the-easiest-markdown" alt="License"> | <a href="https://github.com/devncore/the-easiest-markdown/pulse"><img src="https://img.shields.io/github/commit-activity/m/devncore/the-easiest-markdown" alt="Commits-per-month"></a> |
+| <a href="https://github.com/devncore/guide-to-markdown/stargazers"><img src="https://img.shields.io/github/stars/devncore/guide-to-markdown" alt="Github Stars"></a> | <img src="https://img.shields.io/github/license/devncore/guide-to-markdown" alt="License"> | <a href="https://github.com/devncore/guide-to-markdown/pulse"><img src="https://img.shields.io/github/commit-activity/m/devncore/guide-to-markdown" alt="Commits-per-month"></a> |
 
 <br />
 <br />
