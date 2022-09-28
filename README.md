@@ -1,16 +1,5 @@
 ## Guide to Markdown
 
-이 리포지토리는 Markdown의 기본적인 사용법에 대해 기술한 리포지토리입니다. <br />
-
-<a href="https://github.com/devncore/devncore"><strong>더 알아보기 »</strong></a>
- 
-| Star | License | Activity |
-|:----:|:-------:|:--------:|
-| <a href="https://github.com/devncore/guide-to-markdown/stargazers"><img src="https://img.shields.io/github/stars/devncore/guide-to-markdown" alt="Github Stars"></a> | <img src="https://img.shields.io/github/license/devncore/guide-to-markdown" alt="License"> | <a href="https://github.com/devncore/guide-to-markdown/pulse"><img src="https://img.shields.io/github/commit-activity/m/devncore/guide-to-markdown" alt="Commits-per-month"></a> |
-
-<br />
-<br />
-
 <img src="https://github.com/devncore/theeasiestmarkdown/blob/main/images/markdown-logo.png?raw=true" width="180" height="120"></img>
 
 **마크다운(Markdown)** 은 일반 텍스트 편집기를 사용하여 정형화된 텍스트를 만들기 위한 경량 마크업 언어입니다. 2004년 John Gruber와 Aaron Swartz에 의해 만들어졌으며, 문법이 간단하기 때문에 사람들이 쉽게 읽고 쓸 수 있습니다. 마크다운은 블로그, 메신저, 온라인 포럼, 협업 소프트웨어, 문서 페이지 및 README 파일에 널리 사용되고 있습니다.
